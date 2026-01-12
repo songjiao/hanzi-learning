@@ -4,8 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "sync-lessons": "cp -r lessons/* public/lessons/",
+    "dev": "npm run sync-lessons && vite",
+    "build": "npm run sync-lessons && vite build",
     "preview": "vite preview"
   },
   "dependencies": {

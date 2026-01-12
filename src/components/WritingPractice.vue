@@ -38,18 +38,7 @@
 
     <!-- 完成反馈 -->
     <div v-if="isCompleted" class="feedback" :class="isSuccess ? 'success' : 'error'">
-      <template v-if="isSuccess">
-        写得很好！
-      </template>
-      <template v-else>
-        再练习一下吧！
-      </template>
-    </div>
-
-    <!-- 完成后显示正确汉字 -->
-    <div v-if="isCompleted" class="correct-char card">
-      <span class="correct-label">正确写法：</span>
-      <span class="correct-display">{{ item.char }}</span>
+      {{ isSuccess ? '正确' : '错误' }}
     </div>
   </div>
 </template>
@@ -81,6 +70,7 @@ const {
   animateCharacter,
   showCharacter,
   startQuiz,
+  cancelQuiz,
   reset
 } = useHanziWriter()
 
@@ -149,15 +139,32 @@ function startQuizMode() {
     onCorrectStroke: () => {
       // 正确笔画反馈
     },
-    onMistake: () => {
-      // 错误反馈
+    onMistake: (strokeData) => {
+      // 错误达到3次，直接结束并演示
+      if (strokeData.totalMistakes >= 3) {
+        cancelQuiz()
+        isCompleted.value = true
+        isSuccess.value = false
+        setTimeout(() => {
+          showCharacter()
+          animateCharacter()
+        }, 500)
+        emit('complete', {
+          success: false,
+          mistakes: strokeData.totalMistakes,
+          character: props.item.char
+        })
+      }
     },
     onComplete: (summary) => {
+      // 如果已经被 onMistake 处理过，不再重复处理
+      if (isCompleted.value) return
+
       isCompleted.value = true
-      // 错误次数少于总笔画数视为成功
-      isSuccess.value = summary.totalMistakes < totalStrokes.value
+      isSuccess.value = true  // 能走到这里说明错误<3次，视为成功
+
       emit('complete', {
-        success: isSuccess.value,
+        success: true,
         mistakes: summary.totalMistakes,
         character: props.item.char
       })
@@ -275,24 +282,5 @@ function resetWriter() {
   flex-shrink: 0;
   padding: 0.5rem;
   margin: 0;
-}
-
-.correct-char {
-  text-align: center;
-  padding: 0.5rem;
-  flex-shrink: 0;
-}
-
-.correct-label {
-  font-size: 0.75rem;
-  color: var(--text-light);
-}
-
-.correct-display {
-  font-size: 2rem;
-  font-weight: bold;
-  color: var(--text-color);
-  display: block;
-  margin-top: 0.25rem;
 }
 </style>

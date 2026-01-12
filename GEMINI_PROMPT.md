@@ -3,7 +3,7 @@
 用于生成课文数据的 prompt，复制后替换【】内的内容：
 
 ```
-请根据【小学四年级语文上册第X课《课文名》】的内容，生成以下JSON格式的生字词数据。
+帮我将课本里的识字表、写字表按如下要求生成json，要求覆盖所有的生字表和写字表和词语表。
 
 要求：
 1. recognitionChars（识字表）：课本要求会认的字，需要提供组词和释义
@@ -15,39 +15,44 @@
 7. isOptional 表示是否为选读课文
 
 请严格按照以下JSON格式输出：
-
 {
-  "lessonId": 1,
-  "lessonName": "观潮",
-  "isOptional": false,
-  "recognitionChars": [
-    {
-      "char": "盐",
-      "pinyin": "yán",
-      "word": "食盐",
-      "definition": "一种白色晶体，用来调味",
-      "wrongOptions": ["yǐn", "yàn", "yuán"]
-    }
-  ],
-  "writingChars": [
-    {
-      "char": "潮",
-      "pinyin": "cháo",
-      "word": "潮水",
-      "definition": "海水定时涨落的现象",
-      "wrongOptions": ["cáo", "zhāo", "sháo"]
-    }
-  ],
-  "words": [
-    {
-      "word": "奇观",
-      "pinyin": "qí guān",
-      "definition": "奇特而又少见的景象",
-      "wrongOptions": ["qǐ guān", "qí guàn", "jī guān"]
-    }
-  ]
-}
-
+  "grade": "四年级",
+  "semester": "上册",
+  "units": 
+[
+   
+   {
+     "lessonId": 1,
+     "lessonName": "观潮",
+     "isOptional": false,
+     "recognitionChars": [
+       {
+         "char": "盐",
+         "pinyin": "yán",
+         "word": "食盐",
+         "definition": "一种白色晶体，用来调味",
+         "wrongOptions": ["yǐn", "yàn", "yuán"]
+       }
+     ],
+     "writingChars": [
+       {
+         "char": "潮",
+         "pinyin": "cháo",
+         "word": "潮水",
+         "definition": "海水定时涨落的现象",
+         "wrongOptions": ["cáo", "zhāo", "sháo"]
+       }
+     ],
+     "words": [
+       {
+         "word": "奇观",
+         "pinyin": "qí guān",
+         "definition": "奇特而又少见的景象",
+         "wrongOptions": ["qǐ guān", "qí guàn", "jī guān"]
+       }
+     ]
+   }
+]  
 注意：
 - wrongOptions 必须是3个与正确拼音相近但不同的选项，用于出选择题
 - 干扰项要合理，可以是声调不同、声母相近或韵母相近的拼音
