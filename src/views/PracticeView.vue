@@ -116,7 +116,8 @@ const currentItem = computed(() => items.value[currentIndex.value])
 
 const progressPercent = computed(() => {
   if (totalItems.value === 0) return 0
-  return (currentIndex.value / totalItems.value) * 100
+  if (isCompleted.value) return 100
+  return ((currentIndex.value + 1) / totalItems.value) * 100
 })
 
 const accuracy = computed(() => {

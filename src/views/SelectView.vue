@@ -13,6 +13,7 @@
 
     <!-- 选择学期 -->
     <div v-else-if="!lessonStore.selectedSemester" class="selection">
+      <button class="back-btn" @click="goHome">← 返回首页</button>
       <h2>选择学期</h2>
       <div class="options-list">
         <template v-for="grade in lessonStore.lessonIndex?.availableData" :key="grade.gradeId">
@@ -133,6 +134,10 @@ function goBack() {
   } else if (lessonStore.selectedSemester) {
     lessonStore.resetSelection()
   }
+}
+
+function goHome() {
+  router.push('/')
 }
 
 function startPractice(type) {

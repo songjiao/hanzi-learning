@@ -14,7 +14,7 @@
         <h3>{{ formatSemesterKey(semesterKey) }}</h3>
 
         <div v-for="(lessonData, lessonKey) in semesterData" :key="lessonKey" class="lesson-card card">
-          <h4>{{ formatLessonKey(lessonKey) }}</h4>
+          <h4>{{ formatLessonKey(semesterKey, lessonKey) }}</h4>
 
           <div class="type-progress" v-if="lessonData.recognition">
             <div class="type-header">
@@ -56,7 +56,7 @@
 </template>
 
 <script setup>
-import { computed } from 'vue'
+import { computed, ref, onMounted, watch } from 'vue'
 import { useRouter } from 'vue-router'
 import { useProgressStore } from '../stores/progressStore'
 
@@ -64,6 +64,30 @@ const router = useRouter()
 const progressStore = useProgressStore()
 
 const progressData = computed(() => progressStore.data)
+
+// 课程名称缓存
+const lessonNameCache = ref({})
+
+// 加载课程名称
+async function loadLessonNames(semesterKey) {
+  if (lessonNameCache.value[semesterKey]) return
+
+  try {
+    const response = await fetch(`/lessons/${semesterKey}.json`)
+    const data = await response.json()
+    lessonNameCache.value[semesterKey] = {}
+    data.units.forEach(lesson => {
+      lessonNameCache.value[semesterKey][`lesson-${lesson.lessonId}`] = lesson.lessonName
+    })
+  } catch (e) {
+    console.error('加载课程名称失败', e)
+  }
+}
+
+// 监听进度数据变化，加载课程名称
+watch(() => Object.keys(progressData.value.progress), (semesterKeys) => {
+  semesterKeys.forEach(key => loadLessonNames(key))
+}, { immediate: true })
 
 const hasProgress = computed(() => {
   return Object.keys(progressData.value.progress).length > 0
@@ -88,10 +112,11 @@ function formatSemesterKey(key) {
   return `${gradeMap[grade] || grade} ${semesterMap[semester] || semester}`
 }
 
-function formatLessonKey(key) {
-  // lesson-1 -> 第1课
-  const num = key.replace('lesson-', '')
-  return `第 ${num} 课`
+function formatLessonKey(semesterKey, lessonKey) {
+  // lesson-1 -> 第1课 观潮
+  const num = lessonKey.replace('lesson-', '')
+  const lessonName = lessonNameCache.value[semesterKey]?.[lessonKey]
+  return lessonName ? `第 ${num} 课 ${lessonName}` : `第 ${num} 课`
 }
 
 function getMasteredCount(typeData) {

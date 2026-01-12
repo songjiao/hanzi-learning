@@ -76,17 +76,10 @@ export const useProgressStore = defineStore('progress', () => {
     data.value.progress[semesterKey][lessonKey][type][char] = charProgress
   }
 
-  // 计算掌握状态
+  // 计算掌握状态：答对一次即为掌握
   function calculateStatus(progress) {
-    const total = progress.correctCount + progress.mistakeCount
-    if (total === 0) return 'new'
-
-    const accuracy = progress.correctCount / total
-
-    if (progress.correctCount >= 5 && accuracy >= 0.8) {
+    if (progress.correctCount >= 1) {
       return 'mastered'
-    } else if (progress.correctCount >= 1) {
-      return 'learning'
     }
     return 'new'
   }
