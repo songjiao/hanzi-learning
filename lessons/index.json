@@ -12,8 +12,41 @@
       ]
     },
     {
+      "gradeId": "grade1",
+      "gradeName": "一年级",
+      "semesters": [
+        {
+          "semesterId": "semester2",
+          "semesterName": "下册",
+          "dataFile": "grade1-semester2.json"
+        }
+      ]
+    },
+    {
+      "gradeId": "grade3",
+      "gradeName": "四年级",
+      "semesters": [
+        {
+          "semesterId": "semester1",
+          "semesterName": "上册",
+          "dataFile": "grade3-semester1.json"
+        }
+      ]
+    },
+    {
       "gradeId": "grade4",
       "gradeName": "四年级",
+      "semesters": [
+        {
+          "semesterId": "semester2",
+          "semesterName": "下册",
+          "dataFile": "grade4-semester2.json"
+        }
+      ]
+    },
+    {
+      "gradeId": "grade5",
+      "gradeName": "五年级",
       "semesters": [
         {
           "semesterId": "semester1",
@@ -21,6 +54,18 @@
           "dataFile": "grade4-semester1.json"
         }
       ]
+    },
+    {
+      "gradeId": "grade5",
+      "gradeName": "五年级",
+      "semesters": [
+        {
+          "semesterId": "semester2",
+          "semesterName": "下册",
+          "dataFile": "grade4-semester2.json"
+        }
+      ]
     }
+
   ]
 }
