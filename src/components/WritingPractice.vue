@@ -27,7 +27,11 @@
 
       <!-- 控制按钮 -->
       <div class="writer-controls">
-        <button class="btn btn-outline" @click="showAnimation">
+        <button
+          class="btn btn-outline"
+          :class="{ 'flash-hint': shouldFlashHint }"
+          @click="showAnimation"
+        >
           演示笔顺
         </button>
         <button class="btn btn-outline" @click="resetWriter">
@@ -59,6 +63,7 @@ const emit = defineEmits(['complete'])
 const writerRef = ref(null)
 const isCompleted = ref(false)
 const isSuccess = ref(false)
+const shouldFlashHint = ref(false)
 
 const {
   isLoading,
@@ -126,6 +131,7 @@ watch(() => props.item, (newItem) => {
 }, { immediate: false })
 
 function showAnimation() {
+  shouldFlashHint.value = false
   showCharacter()
   animateCharacter().then(() => {
     // 动画结束后重新开始测验
@@ -134,14 +140,19 @@ function showAnimation() {
 }
 
 function startQuizMode() {
+  shouldFlashHint.value = false
   startQuiz({
     showHintAfterMisses: 3,
     onCorrectStroke: () => {
       // 正确笔画反馈
     },
     onMistake: (strokeData) => {
-      // 错误达到3次，直接结束并演示
-      if (strokeData.totalMistakes >= 3) {
+      // 错误达到3次，闪烁提示演示笔顺按钮
+      if (strokeData.totalMistakes >= 3 && !shouldFlashHint.value) {
+        shouldFlashHint.value = true
+      }
+      // 错误达到10次，直接结束并演示
+      if (strokeData.totalMistakes >= 10) {
         cancelQuiz()
         isCompleted.value = true
         isSuccess.value = false
@@ -161,7 +172,7 @@ function startQuizMode() {
       if (isCompleted.value) return
 
       isCompleted.value = true
-      isSuccess.value = true  // 能走到这里说明错误<3次，视为成功
+      isSuccess.value = true  // 能走到这里说明错误<10次，视为成功
 
       emit('complete', {
         success: true,
@@ -282,5 +293,20 @@ function resetWriter() {
   flex-shrink: 0;
   padding: 0.5rem;
   margin: 0;
+}
+
+.flash-hint {
+  animation: flash 0.5s ease-in-out 3;
+}
+
+@keyframes flash {
+  0%, 100% {
+    opacity: 1;
+    background-color: inherit;
+  }
+  50% {
+    opacity: 0.7;
+    background-color: #ffc107;
+  }
 }
 </style>
