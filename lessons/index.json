@@ -1,0 +1,15 @@
+{
+  "availableData": [
+    {
+      "gradeId": "grade4",
+      "gradeName": "四年级",
+      "semesters": [
+        {
+          "semesterId": "semester1",
+          "semesterName": "上册",
+          "dataFile": "grade4-semester1.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5484 @@
+{
+  "grade": "四年级",
+  "semester": "上册",
+  "units": 
+[
+  {
+    "lessonId": 1,
+    "lessonName": "观潮",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "盐",
+        "pinyin": "yán",
+        "word": "食盐",
+        "definition": "一种白色晶体，咸味，用来调味",
+        "wrongOptions": ["yǐn", "yàn", "yuán"]
+      },
+      {
+        "char": "薄",
+        "pinyin": "bó",
+        "word": "薄雾",
+        "definition": "扁平物体上下两面之间的距离小，与“厚”相对",
+        "wrongOptions": ["báo", "bò", "bé"]
+      },
+      {
+        "char": "屹",
+        "pinyin": "yì",
+        "word": "屹立",
+        "definition": "像山峰一样高耸而稳固地立着",
+        "wrongOptions": ["qì", "yì", "yí"]
+      },
+      {
+        "char": "昂",
+        "pinyin": "áng",
+        "word": "昂首",
+        "definition": "仰，高抬",
+        "wrongOptions": ["yáng", "ǎng", "àng"]
+      },
+      {
+        "char": "鼎",
+        "pinyin": "dǐng",
+        "word": "鼎沸",
+        "definition": "古代煮东西用的器物，圆形，三足两耳",
+        "wrongOptions": ["dǐn", "tǐng", "dīng"]
+      },
+      {
+        "char": "沸",
+        "pinyin": "fèi",
+        "word": "沸腾",
+        "definition": "液体受热到一定温度，上下翻滚，发生气化现象",
+        "wrongOptions": ["fú", "fì", "fěi"]
+      },
+      {
+        "char": "贯",
+        "pinyin": "guàn",
+        "word": "横贯",
+        "definition": "穿通，连通",
+        "wrongOptions": ["guān", "kuàn", "gùn"]
+      },
+      {
+        "char": "浩",
+        "pinyin": "hào",
+        "word": "浩荡",
+        "definition": "水势大",
+        "wrongOptions": ["gào", "hāo", "hǎo"]
+      },
+      {
+        "char": "崩",
+        "pinyin": "bēng",
+        "word": "山崩",
+        "definition": "倒塌",
+        "wrongOptions": ["bēng", "péng", "běng"]
+      },
+      {
+        "char": "震",
+        "pinyin": "zhèn",
+        "word": "地震",
+        "definition": "震动，情绪激动",
+        "wrongOptions": ["zhèng", "zèn", "chèn"]
+      },
+      {
+        "char": "霎",
+        "pinyin": "shà",
+        "word": "霎时",
+        "definition": "极短的时间",
+        "wrongOptions": ["chà", "shā", "sà"]
+      },
+      {
+        "char": "余",
+        "pinyin": "yú",
+        "word": "余波",
+        "definition": "剩下",
+        "wrongOptions": ["yū", "xú", "yù"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "潮",
+        "pinyin": "cháo",
+        "word": "潮水",
+        "definition": "海水定时涨落的现象",
+        "wrongOptions": ["cáo", "zhāo", "sháo"]
+      },
+      {
+        "char": "据",
+        "pinyin": "jù",
+        "word": "据说",
+        "definition": "依据，凭借",
+        "wrongOptions": ["jü", "qū", "jǜ"]
+      },
+      {
+        "char": "堤",
+        "pinyin": "dī",
+        "word": "大堤",
+        "definition": "用土石等材料修筑的挡水的高岸",
+        "wrongOptions": ["tí", "tī", "dì"]
+      },
+      {
+        "char": "阔",
+        "pinyin": "kuò",
+        "word": "宽阔",
+        "definition": "宽广",
+        "wrongOptions": ["kuè", "huò", "kuò"]
+      },
+      {
+        "char": "盼",
+        "pinyin": "pàn",
+        "word": "盼望",
+        "definition": "希望，想望",
+        "wrongOptions": ["bàn", "pàng", "piàn"]
+      },
+      {
+        "char": "滚",
+        "pinyin": "gǔn",
+        "word": "滚动",
+        "definition": "翻转着移动",
+        "wrongOptions": ["gūn", "kǔn", "gǔng"]
+      },
+      {
+        "char": "顿",
+        "pinyin": "dùn",
+        "word": "顿时",
+        "definition": "立刻，忽然",
+        "wrongOptions": ["tún", "dūn", "duèn"]
+      },
+      {
+        "char": "逐",
+        "pinyin": "zhú",
+        "word": "逐渐",
+        "definition": "依照先后次序，一一挨着",
+        "wrongOptions": ["zú", "zhū", "zhuó"]
+      },
+      {
+        "char": "渐",
+        "pinyin": "jiàn",
+        "word": "渐渐",
+        "definition": "慢慢地，一点一点地",
+        "wrongOptions": ["jiān", "qiàn", "jiǎn"]
+      },
+      {
+        "char": "堵",
+        "pinyin": "dǔ",
+        "word": "堵塞",
+        "definition": "阻塞，挡",
+        "wrongOptions": ["dū", "tǔ", "zhǔ"]
+      },
+      {
+        "char": "犹",
+        "pinyin": "yóu",
+        "word": "犹如",
+        "definition": "如同",
+        "wrongOptions": ["yiú", "yó", "liú"]
+      },
+      {
+        "char": "崩",
+        "pinyin": "bēng",
+        "word": "崩塌",
+        "definition": "倒塌",
+        "wrongOptions": ["bēng", "péng", "běng"]
+      },
+      {
+        "char": "震",
+        "pinyin": "zhèn",
+        "word": "震动",
+        "definition": "颤动，使颤动",
+        "wrongOptions": ["zhèng", "zèn", "chèn"]
+      },
+      {
+        "char": "霎",
+        "pinyin": "shà",
+        "word": "霎时",
+        "definition": "极短的时间",
+        "wrongOptions": ["chà", "shā", "sà"]
+      },
+      {
+        "char": "余",
+        "pinyin": "yú",
+        "word": "余波",
+        "definition": "剩下的，残留的",
+        "wrongOptions": ["yū", "xú", "yù"]
+      }
+    ],
+    "words": [
+      {
+        "word": "奇观",
+        "pinyin": "qí guān",
+        "definition": "奇特而又少见的景象",
+        "wrongOptions": ["qǐ guān", "qí guàn", "jī guān"]
+      },
+      {
+        "word": "农历",
+        "pinyin": "nóng lì",
+        "definition": "我国的一种传统历法",
+        "wrongOptions": ["lóng lì", "nóng nì", "nōng lì"]
+      },
+      {
+        "word": "据说",
+        "pinyin": "jù shuō",
+        "definition": "根据别人说",
+        "wrongOptions": ["jü shuō", "jù suō", "qū shuō"]
+      },
+      {
+        "word": "宽阔",
+        "pinyin": "kuān kuò",
+        "definition": "宽广；开阔",
+        "wrongOptions": ["kuān kuò", "guān kuò", "kuān huò"]
+      },
+      {
+        "word": "人山人海",
+        "pinyin": "rén shān rén hǎi",
+        "definition": "形容聚集的人极多",
+        "wrongOptions": ["rén sān rén hǎi", "rén shān rén hāi", "rén shān rén huǐ"]
+      },
+      {
+        "word": "滚动",
+        "pinyin": "gǔn dòng",
+        "definition": "一个物体在另一个物体上接触面不断改变地移动",
+        "wrongOptions": ["gūn dòng", "kǔn dòng", "gǔn tòng"]
+      },
+      {
+        "word": "顿时",
+        "pinyin": "dùn shí",
+        "definition": "立刻（只用于叙述过去的事情）",
+        "wrongOptions": ["tún shí", "dūn shí", "dùn sí"]
+      },
+      {
+        "word": "逐渐",
+        "pinyin": "zhú jiàn",
+        "definition": "渐渐",
+        "wrongOptions": ["zú jiàn", "zhú jiān", "zhuó jiàn"]
+      },
+      {
+        "word": "犹如",
+        "pinyin": "yóu rú",
+        "definition": "好像",
+        "wrongOptions": ["yiú rú", "yó rú", "liú rú"]
+      },
+      {
+        "word": "齐头并进",
+        "pinyin": "qí tóu bìng jìn",
+        "definition": "不分先后，一齐前进",
+        "wrongOptions": ["jì tóu bìng jìn", "qí tóu pìng jìn", "qí tóu bìng jìng"]
+      },
+      {
+        "word": "山崩地裂",
+        "pinyin": "shān bēng dì liè",
+        "definition": "山岳倒塌，大地裂开。形容声响巨大或变化剧烈",
+        "wrongOptions": ["shān pēng dì liè", "sān bēng dì liè", "shān bēng dì liě"]
+      },
+      {
+        "word": "霎时",
+        "pinyin": "shà shí",
+        "definition": "极短的时间",
+        "wrongOptions": ["chà shí", "shā shí", "sà shí"]
+      },
+      {
+        "word": "余波",
+        "pinyin": "yú bō",
+        "definition": "指事件结束以后留下的影响",
+        "wrongOptions": ["yú pō", "xú bō", "yù bō"]
+      },
+      {
+        "word": "依旧",
+        "pinyin": "yī jiù",
+        "definition": "依然像从前一样",
+        "wrongOptions": ["yí jiù", "yì jiù", "yī qiù"]
+      }
+    ]
+  },
+  {
+    "lessonId": 2,
+    "lessonName": "走月亮",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "鹅",
+        "pinyin": "é",
+        "word": "鹅卵石",
+        "definition": "一种家禽，脖子长，脚有蹼",
+        "wrongOptions": ["ě", "è", "uó"]
+      },
+      {
+        "char": "卵",
+        "pinyin": "luǎn",
+        "word": "卵石",
+        "definition": "动植物的蛋或种子",
+        "wrongOptions": ["lǎn", "luán", "nuǎn"]
+      },
+      {
+        "char": "俗",
+        "pinyin": "sú",
+        "word": "风俗",
+        "definition": "社会上长期形成的风尚、礼节、习惯等",
+        "wrongOptions": ["shú", "xú", "sù"]
+      },
+      {
+        "char": "跃",
+        "pinyin": "yuè",
+        "word": "跳跃",
+        "definition": "跳",
+        "wrongOptions": ["yào", "yüè", "yüé"]
+      },
+      {
+        "char": "穗",
+        "pinyin": "suì",
+        "word": "稻穗",
+        "definition": "禾本植物聚生在茎的顶端的花或果实",
+        "wrongOptions": ["shuì", "huì", "suí"]
+      },
+      {
+        "char": "镀",
+        "pinyin": "dù",
+        "word": "镀金",
+        "definition": "用电解或其他化学方法，使一种金属附着在别的金属或物体的表面上",
+        "wrongOptions": ["duó", "dǔ", "tù"]
+      },
+      {
+        "char": "埂",
+        "pinyin": "gěng",
+        "word": "田埂",
+        "definition": "田间隆起的分界处，用来挡水",
+        "wrongOptions": ["gēng", "gèng", "kěng"]
+      },
+      {
+        "char": "烁",
+        "pinyin": "shuò",
+        "word": "闪烁",
+        "definition": "光亮的样子",
+        "wrongOptions": ["lè", "suò", "shuō"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "淘",
+        "pinyin": "táo",
+        "word": "淘洗",
+        "definition": "用水冲洗，去杂质",
+        "wrongOptions": ["tāo", "dáo", "tǎo"]
+      },
+      {
+        "char": "牵",
+        "pinyin": "qiān",
+        "word": "牵手",
+        "definition": "拉，引领",
+        "wrongOptions": ["qián", "jiān", "quān"]
+      },
+      {
+        "char": "鹅",
+        "pinyin": "é",
+        "word": "鹅卵石",
+        "definition": "家禽名",
+        "wrongOptions": ["ě", "è", "uó"]
+      },
+      {
+        "char": "卵",
+        "pinyin": "luǎn",
+        "word": "卵石",
+        "definition": "蛋",
+        "wrongOptions": ["lǎn", "luán", "nuǎn"]
+      },
+      {
+        "char": "坑",
+        "pinyin": "kēng",
+        "word": "土坑",
+        "definition": "洼下去的地方",
+        "wrongOptions": ["kāng", "hēng", "kèng"]
+      },
+      {
+        "char": "洼",
+        "pinyin": "wā",
+        "word": "水洼",
+        "definition": "凹陷的地方",
+        "wrongOptions": ["wá", "guā", "wǎ"]
+      },
+      {
+        "char": "填",
+        "pinyin": "tián",
+        "word": "填空",
+        "definition": "把空缺的地方塞满",
+        "wrongOptions": ["tiān", "diān", "zhèn"]
+      },
+      {
+        "char": "庄",
+        "pinyin": "zhuāng",
+        "word": "庄稼",
+        "definition": "村庄，田庄",
+        "wrongOptions": ["zuāng", "zhuāng", "chuāng"]
+      },
+      {
+        "char": "稼",
+        "pinyin": "jià",
+        "word": "庄稼",
+        "definition": "种植谷物",
+        "wrongOptions": ["jiā", "gā", "jiǎ"]
+      },
+      {
+        "char": "俗",
+        "pinyin": "sú",
+        "word": "风俗",
+        "definition": "风俗，习惯",
+        "wrongOptions": ["shú", "xú", "sù"]
+      },
+      {
+        "char": "跃",
+        "pinyin": "yuè",
+        "word": "跳跃",
+        "definition": "跳",
+        "wrongOptions": ["yào", "yüè", "yüé"]
+      },
+      {
+        "char": "葡",
+        "pinyin": "pú",
+        "word": "葡萄",
+        "definition": "落叶藤本植物，果实圆形或椭圆形",
+        "wrongOptions": ["bú", "pū", "fú"]
+      },
+      {
+        "char": "萄",
+        "pinyin": "táo",
+        "word": "葡萄",
+        "definition": "见“葡”",
+        "wrongOptions": ["tāo", "dáo", "tǎo"]
+      },
+      {
+        "char": "稻",
+        "pinyin": "dào",
+        "word": "水稻",
+        "definition": "一种一年生的草本植物，子实叫稻谷，去壳叫米",
+        "wrongOptions": ["tào", "dǎo", "diào"]
+      },
+      {
+        "char": "熟",
+        "pinyin": "shú",
+        "word": "成熟",
+        "definition": "植物的果实或种子长成",
+        "wrongOptions": ["shóu", "sú", "chú"]
+      }
+    ],
+    "words": [
+      {
+        "word": "柔和",
+        "pinyin": "róu hé",
+        "definition": "温和，不强烈",
+        "wrongOptions": ["yóu hé", "róu huó", "róu hè"]
+      },
+      {
+        "word": "鹅卵石",
+        "pinyin": "é luǎn shí",
+        "definition": "像鹅卵一样的圆滑的小石头",
+        "wrongOptions": ["é lǎn shí", "ě luǎn shí", "é luǎn sí"]
+      },
+      {
+        "word": "河床",
+        "pinyin": "hé chuáng",
+        "definition": "河流两岸之间容水的部分",
+        "wrongOptions": ["hé chuāng", "hé cuáng", "hú chuáng"]
+      },
+      {
+        "word": "新鲜",
+        "pinyin": "xīn xiān",
+        "definition": "没有变质，也没有经过腌制、干制等",
+        "wrongOptions": ["xīng xiān", "xīn xiǎn", "xīn xiàn"]
+      },
+      {
+        "word": "修补",
+        "pinyin": "xiū bǔ",
+        "definition": "修理破损物品使能够使用",
+        "wrongOptions": ["xiū pǔ", "xiu bǔ", "xiū bù"]
+      },
+      {
+        "word": "坑坑洼洼",
+        "pinyin": "kēng kēng wā wā",
+        "definition": "形容物体表面凹凸不平",
+        "wrongOptions": ["keng keng wa wa", "kēng kēng wā wǎ", "kēng kēng wá wá"]
+      },
+      {
+        "word": "庄稼",
+        "pinyin": "zhuāng jia",
+        "definition": "地里长着的农作物",
+        "wrongOptions": ["zuāng jia", "zhuāng jià", "zhuāng jiā"]
+      },
+      {
+        "word": "风俗",
+        "pinyin": "fēng sú",
+        "definition": "社会上长期形成的风尚、礼节、习惯等",
+        "wrongOptions": ["fōng sú", "fēng shú", "fēng sù"]
+      },
+      {
+        "word": "葡萄",
+        "pinyin": "pú tao",
+        "definition": "一种水果，圆形或椭圆形，味甜酸",
+        "wrongOptions": ["pú tào", "bú tao", "pú táo"]
+      },
+      {
+        "word": "满意",
+        "pinyin": "mǎn yì",
+        "definition": "满足自己的愿望；符合自己的心意",
+        "wrongOptions": ["mǎng yì", "mǎn yī", "mǎn yí"]
+      },
+      {
+        "word": "水稻",
+        "pinyin": "shuǐ dào",
+        "definition": "稻的一类，种在水田里",
+        "wrongOptions": ["suǐ dào", "shuǐ tào", "shuǐ dǎo"]
+      },
+      {
+        "word": "成熟",
+        "pinyin": "chéng shú",
+        "definition": "植物的果实等完全长成",
+        "wrongOptions": ["chén shú", "chéng shóu", "chéng sú"]
+      },
+      {
+        "word": "招待",
+        "pinyin": "zhāo dài",
+        "definition": "对客人表示欢迎并给以应有的待遇",
+        "wrongOptions": ["zhāo dai", "zāo dài", "zhāo tài"]
+      },
+      {
+        "word": "传说",
+        "pinyin": "chuán shuō",
+        "definition": "辗转述说",
+        "wrongOptions": ["zhuàn shuō", "chuán suō", "chuán shuò"]
+      }
+    ]
+  },
+  {
+    "lessonId": 3,
+    "lessonName": "现代诗二首",
+    "isOptional": true,
+    "recognitionChars": [
+      {
+        "char": "巢",
+        "pinyin": "cháo",
+        "word": "归巢",
+        "definition": "鸟窝，也指蜂、蚁等的窝",
+        "wrongOptions": ["cáo", "zhāo", "sháo"]
+      },
+      {
+        "char": "苇",
+        "pinyin": "wěi",
+        "word": "芦苇",
+        "definition": "一种草本植物，生长在湿地",
+        "wrongOptions": ["wéi", "wèi", "wēi"]
+      },
+      {
+        "char": "罗",
+        "pinyin": "luó",
+        "word": "罗列",
+        "definition": "捕鸟的网，散布，陈列",
+        "wrongOptions": ["ló", "nuó", "luò"]
+      },
+      {
+        "char": "眠",
+        "pinyin": "mián",
+        "word": "睡眠",
+        "definition": "睡觉",
+        "wrongOptions": ["mian", "miǎn", "mán"]
+      },
+      {
+        "char": "霸",
+        "pinyin": "bà",
+        "word": "霸占",
+        "definition": "强行占据",
+        "wrongOptions": ["pà", "bǎ", "bā"]
+      },
+      {
+        "char": "占",
+        "pinyin": "zhàn",
+        "word": "占领",
+        "definition": "据有，用强力取得",
+        "wrongOptions": ["zàn", "zhān", "zhǎn"]
+      }
+    ],
+    "writingChars": [],
+    "words": []
+  },
+  {
+    "lessonId": 4,
+    "lessonName": "繁星",
+    "isOptional": true,
+    "recognitionChars": [
+      {
+        "char": "昧",
+        "pinyin": "mèi",
+        "word": "半明半昧",
+        "definition": "昏暗，不明亮",
+        "wrongOptions": ["mèn", "wèi", "mí"]
+      },
+      {
+        "char": "坠",
+        "pinyin": "zhuì",
+        "word": "摇摇欲坠",
+        "definition": "落，掉下",
+        "wrongOptions": ["zuì", "zhuǐ", "duì"]
+      },
+      {
+        "char": "怀",
+        "pinyin": "huái",
+        "word": "怀抱",
+        "definition": "胸前，想念",
+        "wrongOptions": ["huài", "huá", "hái"]
+      }
+    ],
+    "writingChars": [],
+    "words": []
+  },
+    {
+    "lessonId": 5,
+    "lessonName": "一个豆荚里的五粒豆",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "豌",
+        "pinyin": "wān",
+        "word": "豌豆",
+        "definition": "一年生草本植物，结荚果，种子圆形",
+        "wrongOptions": ["wǎn", "yuān", "wàn"]
+      },
+      {
+        "char": "按",
+        "pinyin": "àn",
+        "word": "按照",
+        "definition": "依照，根据",
+        "wrongOptions": ["ān", "ǎn", "à"]
+      },
+      {
+        "char": "僵",
+        "pinyin": "jiāng",
+        "word": "僵硬",
+        "definition": "变硬，不灵活",
+        "wrongOptions": ["jiǎng", "jiàng", "qiāng"]
+      },
+      {
+        "char": "预",
+        "pinyin": "yù",
+        "word": "预感",
+        "definition": "事先",
+        "wrongOptions": ["yǜ", "xū", "yú"]
+      },
+      {
+        "char": "揭",
+        "pinyin": "jiē",
+        "word": "揭晓",
+        "definition": "把盖在上面的东西拿下来，使暴露出来",
+        "wrongOptions": ["jié", "xiē", "jī"]
+      },
+      {
+        "char": "苔",
+        "pinyin": "tái",
+        "word": "青苔",
+        "definition": "隐花植物的一类，多生在阴湿的地方",
+        "wrongOptions": ["tāi", "tǎi", "dài"]
+      },
+      {
+        "char": "囚",
+        "pinyin": "qiú",
+        "word": "囚犯",
+        "definition": "拘禁，被拘禁的人",
+        "wrongOptions": ["yīn", "qiū", "qiù"]
+      },
+      {
+        "char": "框",
+        "pinyin": "kuàng",
+        "word": "窗框",
+        "definition": "嵌在墙上为安装门窗用的架子",
+        "wrongOptions": ["kuāng", "kàng", "guāng"]
+      },
+      {
+        "char": "溢",
+        "pinyin": "yì",
+        "word": "洋溢",
+        "definition": "充满而流出来",
+        "wrongOptions": ["yī", "yí", "yù"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "豌",
+        "pinyin": "wān",
+        "word": "豌豆",
+        "definition": "植物名",
+        "wrongOptions": ["wǎn", "yuān", "wàn"]
+      },
+      {
+        "char": "按",
+        "pinyin": "àn",
+        "word": "按照",
+        "definition": "依照",
+        "wrongOptions": ["ān", "ǎn", "à"]
+      },
+      {
+        "char": "舒",
+        "pinyin": "shū",
+        "word": "舒适",
+        "definition": "伸展，从容，缓慢",
+        "wrongOptions": ["sū", "shú", "chū"]
+      },
+      {
+        "char": "适",
+        "pinyin": "shì",
+        "word": "合适",
+        "definition": "切合，相合",
+        "wrongOptions": ["sì", "shí", "dí"]
+      },
+      {
+        "char": "暗",
+        "pinyin": "àn",
+        "word": "黑暗",
+        "definition": "不明亮",
+        "wrongOptions": ["ān", "ǎn", "yīn"]
+      },
+      {
+        "char": "恐",
+        "pinyin": "kǒng",
+        "word": "恐龙",
+        "definition": "害怕，畏惧",
+        "wrongOptions": ["kōng", "kòng", "qióng"]
+      },
+      {
+        "char": "僵",
+        "pinyin": "jiāng",
+        "word": "僵硬",
+        "definition": "硬，不灵活",
+        "wrongOptions": ["jiǎng", "jiàng", "qiāng"]
+      },
+      {
+        "char": "硬",
+        "pinyin": "yìng",
+        "word": "坚硬",
+        "definition": "坚固，与“软”相对",
+        "wrongOptions": ["yìn", "yīng", "yì"]
+      },
+      {
+        "char": "枪",
+        "pinyin": "qiāng",
+        "word": "手枪",
+        "definition": "发射子弹的武器",
+        "wrongOptions": ["qiàng", "qiǎng", "cāng"]
+      },
+      {
+        "char": "耐",
+        "pinyin": "nài",
+        "word": "忍耐",
+        "definition": "忍受，不厌烦",
+        "wrongOptions": ["nǎi", "lài", "nāi"]
+      },
+      {
+        "char": "探",
+        "pinyin": "tàn",
+        "word": "探望",
+        "definition": "伸出，试图发现",
+        "wrongOptions": ["tān", "dàn", "shēn"]
+      },
+      {
+        "char": "愉",
+        "pinyin": "yú",
+        "word": "愉快",
+        "definition": "快乐",
+        "wrongOptions": ["yū", "yù", "tōu"]
+      },
+      {
+        "char": "曾",
+        "pinyin": "céng",
+        "word": "曾经",
+        "definition": "表示从前经历过",
+        "wrongOptions": ["ceng", "zēng", "chéng"]
+      },
+      {
+        "char": "沟",
+        "pinyin": "gōu",
+        "word": "水沟",
+        "definition": "水道",
+        "wrongOptions": ["góu", "gǒu", "gòu"]
+      }
+    ],
+    "words": [
+      {
+        "word": "豌豆",
+        "pinyin": "wān dòu",
+        "definition": "一种蔬菜",
+        "wrongOptions": ["wǎn dòu", "yuān dòu", "wān dou"]
+      },
+      {
+        "word": "按照",
+        "pinyin": "àn zhào",
+        "definition": "依据；依照",
+        "wrongOptions": ["ān zhào", "àn zhāo", "àn zào"]
+      },
+      {
+        "word": "暖洋洋",
+        "pinyin": "nuǎn yáng yáng",
+        "definition": "形容温暖舒适",
+        "wrongOptions": ["nǎn yáng yáng", "nuǎn yáng yang", "nuǎn yāng yāng"]
+      },
+      {
+        "word": "舒适",
+        "pinyin": "shū shì",
+        "definition": "舒服；安逸",
+        "wrongOptions": ["sū shì", "shū sì", "shū shi"]
+      },
+      {
+        "word": "黑暗",
+        "pinyin": "hēi àn",
+        "definition": "没有光",
+        "wrongOptions": ["hēi àng", "hēi yàn", "hēi nàn"]
+      },
+      {
+        "word": "恐怕",
+        "pinyin": "kǒng pà",
+        "definition": "表示估计兼担心",
+        "wrongOptions": ["kǒng pa", "kōng pà", "kǒng bà"]
+      },
+      {
+        "word": "僵硬",
+        "pinyin": "jiāng yìng",
+        "definition": "（肢体）变硬；不灵活",
+        "wrongOptions": ["jiāng yìng", "jiāng yìn", "qiāng yìng"]
+      },
+      {
+        "word": "丰满",
+        "pinyin": "fēng mǎn",
+        "definition": "充足",
+        "wrongOptions": ["fōng mǎn", "fēng mǎng", "fēng màn"]
+      },
+      {
+        "word": "等待",
+        "pinyin": "děng dài",
+        "definition": "不采取行动，直到所期望的人或事出现",
+        "wrongOptions": ["děng dái", "děng dai", "dēng dài"]
+      },
+      {
+        "word": "强壮",
+        "pinyin": "qiáng zhuàng",
+        "definition": "结实；有力气",
+        "wrongOptions": ["qiǎng zhuàng", "qiáng zuàng", "jiáng zhuàng"]
+      },
+      {
+        "word": "虚弱",
+        "pinyin": "xū ruò",
+        "definition": "身体不结实",
+        "wrongOptions": ["xǖ ruò", "xū ruò", "xū luò"]
+      },
+      {
+        "word": "耐心",
+        "pinyin": "nài xīn",
+        "definition": "心里不急躁，不厌烦",
+        "wrongOptions": ["nǎi xīn", "lài xīn", "nài xīng"]
+      },
+      {
+        "word": "愉快",
+        "pinyin": "yú kuài",
+        "definition": "快乐；适意",
+        "wrongOptions": ["yū kuài", "yú kuai", "tōu kuài"]
+      },
+      {
+        "word": "兴奋",
+        "pinyin": "xīng fèn",
+        "definition": "振奋；激动",
+        "wrongOptions": ["xīng fen", "xìng fèn", "xīng fèng"]
+      },
+      {
+        "word": "曾经",
+        "pinyin": "céng jīng",
+        "definition": "表示从前有过某种行为或情况",
+        "wrongOptions": ["ceng jīng", "zēng jīng", "céng jīn"]
+      },
+      {
+        "word": "水沟",
+        "pinyin": "shuǐ gōu",
+        "definition": "排水用的沟",
+        "wrongOptions": ["suǐ gōu", "shuǐ góu", "shuǐ gǒu"]
+      },
+      {
+        "word": "感激",
+        "pinyin": "gǎn jī",
+        "definition": "因对方的好意或帮助而对我有好感",
+        "wrongOptions": ["gǎn jí", "gǎng jī", "gǎn jǐ"]
+      }
+    ]
+  },
+  {
+    "lessonId": 6,
+    "lessonName": "夜间飞行的秘密",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "蝙",
+        "pinyin": "biān",
+        "word": "蝙蝠",
+        "definition": "蝙蝠，哺乳动物",
+        "wrongOptions": ["biǎn", "piān", "biàn"]
+      },
+      {
+        "char": "蝠",
+        "pinyin": "fú",
+        "word": "蝙蝠",
+        "definition": "蝙蝠",
+        "wrongOptions": ["fū", "fǔ", "fù"]
+      },
+      {
+        "char": "即",
+        "pinyin": "jí",
+        "word": "即使",
+        "definition": "就，便，即使",
+        "wrongOptions": ["jì", "jī", "jié"]
+      },
+      {
+        "char": "锐",
+        "pinyin": "ruì",
+        "word": "敏锐",
+        "definition": "锋利，灵敏",
+        "wrongOptions": ["yuè", "ruǐ", "duì"]
+      },
+      {
+        "char": "系",
+        "pinyin": "jì",
+        "word": "系鞋带",
+        "definition": "结，扣",
+        "wrongOptions": ["xì", "xī", "jié"]
+      },
+      {
+        "char": "铛",
+        "pinyin": "dāng",
+        "word": "铃铛",
+        "definition": "形容撞击金属的声音",
+        "wrongOptions": ["dāng", "dǎng", "tāng"]
+      },
+      {
+        "char": "蝇",
+        "pinyin": "yíng",
+        "word": "苍蝇",
+        "definition": "苍蝇",
+        "wrongOptions": ["yín", "yǐng", "shéng"]
+      },
+      {
+        "char": "证",
+        "pinyin": "zhèng",
+        "word": "证明",
+        "definition": "用人物、事实来表明或断定",
+        "wrongOptions": ["zhēng", "zèng", "zhèn"]
+      },
+      {
+        "char": "障",
+        "pinyin": "zhàng",
+        "word": "障碍",
+        "definition": "阻挡，遮挡",
+        "wrongOptions": ["zhāng", "zàng", "chāng"]
+      },
+      {
+        "char": "碍",
+        "pinyin": "ài",
+        "word": "妨碍",
+        "definition": "妨害，阻挡",
+        "wrongOptions": ["dé", "ái", "ān"]
+      },
+      {
+        "char": "荧",
+        "pinyin": "yíng",
+        "word": "荧光",
+        "definition": "微弱的光",
+        "wrongOptions": ["yín", "yǐng", "yīng"]
+      },
+      {
+        "char": "屏",
+        "pinyin": "píng",
+        "word": "屏幕",
+        "definition": "遮挡，屏风",
+        "wrongOptions": ["bǐng", "pín", "pǐng"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "蚊",
+        "pinyin": "wén",
+        "word": "蚊子",
+        "definition": "昆虫名",
+        "wrongOptions": ["wěn", "wèn", "mín"]
+      },
+      {
+        "char": "即",
+        "pinyin": "jí",
+        "word": "立即",
+        "definition": "就，便",
+        "wrongOptions": ["jì", "jī", "jié"]
+      },
+      {
+        "char": "科",
+        "pinyin": "kē",
+        "word": "科学",
+        "definition": "学术或业务的类别",
+        "wrongOptions": ["huā", "kě", "liào"]
+      },
+      {
+        "char": "横",
+        "pinyin": "héng",
+        "word": "横线",
+        "definition": "跟地面平行的",
+        "wrongOptions": ["hèng", "hóng", "hēng"]
+      },
+      {
+        "char": "竖",
+        "pinyin": "shù",
+        "word": "横竖",
+        "definition": "直立，直",
+        "wrongOptions": ["shú", "sù", "shù"]
+      },
+      {
+        "char": "绳",
+        "pinyin": "shéng",
+        "word": "绳子",
+        "definition": "绳索",
+        "wrongOptions": ["shén", "séng", "shēng"]
+      },
+      {
+        "char": "系",
+        "pinyin": "jì",
+        "word": "系上",
+        "definition": "打结",
+        "wrongOptions": ["xì", "xī", "jié"]
+      },
+      {
+        "char": "蝇",
+        "pinyin": "yíng",
+        "word": "苍蝇",
+        "definition": "昆虫名",
+        "wrongOptions": ["yín", "yǐng", "shéng"]
+      },
+      {
+        "char": "证",
+        "pinyin": "zhèng",
+        "word": "证据",
+        "definition": "凭据",
+        "wrongOptions": ["zhēng", "zèng", "zhèn"]
+      },
+      {
+        "char": "研",
+        "pinyin": "yán",
+        "word": "研究",
+        "definition": "细磨，深入探求",
+        "wrongOptions": ["yàn", "yǎn", "jiān"]
+      },
+      {
+        "char": "究",
+        "pinyin": "jiū",
+        "word": "究竟",
+        "definition": "推求，追查",
+        "wrongOptions": ["jiù", "jiǔ", "jiào"]
+      },
+      {
+        "char": "达",
+        "pinyin": "dá",
+        "word": "雷达",
+        "definition": "通，到",
+        "wrongOptions": ["dà", "tá", "dǎ"]
+      },
+      {
+        "char": "驾",
+        "pinyin": "jià",
+        "word": "驾驶",
+        "definition": "操纵车船等",
+        "wrongOptions": ["jiā", "jiǎ", "gā"]
+      },
+      {
+        "char": "驶",
+        "pinyin": "shǐ",
+        "word": "行驶",
+        "definition": "车马快跑",
+        "wrongOptions": ["shī", "sǐ", "shì"]
+      }
+    ],
+    "words": [
+      {
+        "word": "蚊子",
+        "pinyin": "wén zi",
+        "definition": "一种昆虫，雌的吸人畜血液",
+        "wrongOptions": ["wén zǐ", "wén zì", "wěn zi"]
+      },
+      {
+        "word": "即使",
+        "pinyin": "jí shǐ",
+        "definition": "表示承认某种事实，暂让一步",
+        "wrongOptions": ["jì shǐ", "jí shī", "jí shì"]
+      },
+      {
+        "word": "灵巧",
+        "pinyin": "líng qiǎo",
+        "definition": "灵活而巧妙",
+        "wrongOptions": ["lín qiǎo", "líng qiāo", "líng qiào"]
+      },
+      {
+        "word": "科学家",
+        "pinyin": "kē xué jiā",
+        "definition": "从事科学研究工作有成就的人",
+        "wrongOptions": ["kē xué jia", "kē xué jià", "kē xué jiǎ"]
+      },
+      {
+        "word": "横七竖八",
+        "pinyin": "héng qī shù bā",
+        "definition": "形容杂乱无章",
+        "wrongOptions": ["hèng qī shù bā", "héng qī shù bā", "héng qī shù pā"]
+      },
+      {
+        "word": "绳子",
+        "pinyin": "shéng zi",
+        "definition": "绳索",
+        "wrongOptions": ["shén zi", "shéng zǐ", "séng zi"]
+      },
+      {
+        "word": "苍蝇",
+        "pinyin": "cāng ying",
+        "definition": "一种昆虫",
+        "wrongOptions": ["cāng yíng", "chāng ying", "cāng yin"]
+      },
+      {
+        "word": "证明",
+        "pinyin": "zhèng míng",
+        "definition": "用可靠的材料来表明或断定人或事物的真实性",
+        "wrongOptions": ["zhèng mín", "zhēng míng", "zhèng mǐng"]
+      },
+      {
+        "word": "研究",
+        "pinyin": "yán jiū",
+        "definition": "探求事物的真相、性质、规律等",
+        "wrongOptions": ["yán jiù", "yán jiú", "yàn jiū"]
+      },
+      {
+        "word": "雷达",
+        "pinyin": "léi dá",
+        "definition": "测定目标位置的无线电装置",
+        "wrongOptions": ["léi da", "lèi dá", "léi dà"]
+      },
+      {
+        "word": "显示",
+        "pinyin": "xiǎn shì",
+        "definition": "明显地表现",
+        "wrongOptions": ["xiǎn shi", "xiǎn shí", "xiàn shì"]
+      },
+      {
+        "word": "驾驶员",
+        "pinyin": "jià shǐ yuán",
+        "definition": "驾驶车、船、飞机等的人",
+        "wrongOptions": ["jià shí yuán", "jià shǐ yuán", "jià shǐ yán"]
+      }
+    ]
+  },
+  {
+    "lessonId": 7,
+    "lessonName": "呼风唤雨的世纪",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "唤",
+        "pinyin": "huàn",
+        "word": "呼唤",
+        "definition": "叫",
+        "wrongOptions": ["huān", "huan", "huǎn"]
+      },
+      {
+        "char": "获",
+        "pinyin": "huò",
+        "word": "获得",
+        "definition": "取得，得到",
+        "wrongOptions": ["huó", "hè", "huō"]
+      },
+      {
+        "char": "赖",
+        "pinyin": "lài",
+        "word": "依赖",
+        "definition": "依靠，不承认自己的错误或责任",
+        "wrongOptions": ["lǎn", "nài", "lǎi"]
+      },
+      {
+        "char": "潜",
+        "pinyin": "qián",
+        "word": "潜水",
+        "definition": "隐在水面下",
+        "wrongOptions": ["qiǎn", "qiàn", "tián"]
+      },
+      {
+        "char": "亿",
+        "pinyin": "yì",
+        "word": "百亿",
+        "definition": "数目，万万",
+        "wrongOptions": ["yī", "yí", "yù"]
+      },
+      {
+        "char": "索",
+        "pinyin": "suǒ",
+        "word": "探索",
+        "definition": "大绳子，搜寻",
+        "wrongOptions": ["suó", "shuǒ", "sǒ"]
+      },
+      {
+        "char": "奥",
+        "pinyin": "ào",
+        "word": "奥秘",
+        "definition": "含义深，不易理解",
+        "wrongOptions": ["à", "āo", "yù"]
+      },
+      {
+        "char": "舶",
+        "pinyin": "bó",
+        "word": "船舶",
+        "definition": "航海大船",
+        "wrongOptions": ["bō", "bò", "pó"]
+      },
+      {
+        "char": "质",
+        "pinyin": "zhì",
+        "word": "物质",
+        "definition": "本体，本性，物体",
+        "wrongOptions": ["zhí", "zhǐ", "zī"]
+      },
+      {
+        "char": "哲",
+        "pinyin": "zhé",
+        "word": "哲学",
+        "definition": "有智慧",
+        "wrongOptions": ["zhē", "zhè", "zé"]
+      },
+      {
+        "char": "兰",
+        "pinyin": "lán",
+        "word": "波兰",
+        "definition": "兰花",
+        "wrongOptions": ["lǎn", "làn", "nán"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "唤",
+        "pinyin": "huàn",
+        "word": "呼唤",
+        "definition": "叫",
+        "wrongOptions": ["huān", "huan", "huǎn"]
+      },
+      {
+        "char": "纪",
+        "pinyin": "jì",
+        "word": "世纪",
+        "definition": "记载，年",
+        "wrongOptions": ["jǐ", "jī", "qǐ"]
+      },
+      {
+        "char": "技",
+        "pinyin": "jì",
+        "word": "技术",
+        "definition": "才艺，手艺",
+        "wrongOptions": ["zhī", "jī", "qí"]
+      },
+      {
+        "char": "改",
+        "pinyin": "gǎi",
+        "word": "改变",
+        "definition": "变更",
+        "wrongOptions": ["gài", "gāi", "kǎi"]
+      },
+      {
+        "char": "程",
+        "pinyin": "chéng",
+        "word": "程度",
+        "definition": "规矩，道路",
+        "wrongOptions": ["chēng", "chěng", "cēng"]
+      },
+      {
+        "char": "超",
+        "pinyin": "chāo",
+        "word": "超过",
+        "definition": "越过",
+        "wrongOptions": ["cāo", "cháo", "chǎo"]
+      },
+      {
+        "char": "亿",
+        "pinyin": "yì",
+        "word": "亿万",
+        "definition": "数目，万万",
+        "wrongOptions": ["yī", "yí", "yù"]
+      },
+      {
+        "char": "核",
+        "pinyin": "hé",
+        "word": "核心",
+        "definition": "果核",
+        "wrongOptions": ["hú", "hè", "kē"]
+      },
+      {
+        "char": "奥",
+        "pinyin": "ào",
+        "word": "深奥",
+        "definition": "深妙",
+        "wrongOptions": ["à", "āo", "yù"]
+      },
+      {
+        "char": "益",
+        "pinyin": "yì",
+        "word": "利益",
+        "definition": "好处，增加",
+        "wrongOptions": ["yī", "yí", "yù"]
+      },
+      {
+        "char": "联",
+        "pinyin": "lián",
+        "word": "联系",
+        "definition": "连结",
+        "wrongOptions": ["liàn", "nián", "làn"]
+      },
+      {
+        "char": "质",
+        "pinyin": "zhì",
+        "word": "质量",
+        "definition": "性质",
+        "wrongOptions": ["zhí", "zhǐ", "zī"]
+      },
+      {
+        "char": "哲",
+        "pinyin": "zhé",
+        "word": "哲理",
+        "definition": "智慧",
+        "wrongOptions": ["zhē", "zhè", "zé"]
+      },
+      {
+        "char": "任",
+        "pinyin": "rèn",
+        "word": "任何",
+        "definition": "相信，担当",
+        "wrongOptions": ["rén", "rěn", "yìn"]
+      },
+      {
+        "char": "善",
+        "pinyin": "shàn",
+        "word": "善良",
+        "definition": "好，办好",
+        "wrongOptions": ["shān", "sàn", "shàng"]
+      }
+    ],
+    "words": [
+      {
+        "word": "呼风唤雨",
+        "pinyin": "hū fēng huàn yǔ",
+        "definition": "使刮风下雨，原指神仙道士的法力，现在比喻能够支配自然",
+        "wrongOptions": ["hū fēng huàn yù", "hū fōng huàn yǔ", "hū fēng hàn yǔ"]
+      },
+      {
+        "word": "世纪",
+        "pinyin": "shì jì",
+        "definition": "计算年代的单位，一百年为一个世纪",
+        "wrongOptions": ["shì jǐ", "sì jì", "shì jī"]
+      },
+      {
+        "word": "技术",
+        "pinyin": "jì shù",
+        "definition": "人类在利用自然和改造自然的过程中积累起来并在生产劳动中体现出来的经验和知识",
+        "wrongOptions": ["jì shù", "jì sù", "jì shǔ"]
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "definition": "事物变得和原来不一样",
+        "wrongOptions": ["gài biàn", "gǎi piàn", "gǎi bian"]
+      },
+      {
+        "word": "程度",
+        "pinyin": "chéng dù",
+        "definition": "事物发展变化达到的状况",
+        "wrongOptions": ["chéng du", "chéng dú", "chēng dù"]
+      },
+      {
+        "word": "超过",
+        "pinyin": "chāo guò",
+        "definition": "高出；多于",
+        "wrongOptions": ["cāo guò", "chāo guo", "chāo guó"]
+      },
+      {
+        "word": "腾云驾雾",
+        "pinyin": "téng yún jià wù",
+        "definition": "传说中指利用法术乘云雾飞行",
+        "wrongOptions": ["téng yún jià wù", "téng yún jià wù", "tóng yún jià wù"]
+      },
+      {
+        "word": "幻想",
+        "pinyin": "huàn xiǎng",
+        "definition": "以社会或个人的理想和愿望为依据，对还没有实现的事物有所想象",
+        "wrongOptions": ["huàn xiàng", "hàn xiǎng", "huàn xiăng"]
+      },
+      {
+        "word": "原子核",
+        "pinyin": "yuán zǐ hé",
+        "definition": "原子的核心部分",
+        "wrongOptions": ["yuán zǐ hú", "yuán zǐ hè", "yán zǐ hé"]
+      },
+      {
+        "word": "奥秘",
+        "pinyin": "ào mì",
+        "definition": "深奥的秘密",
+        "wrongOptions": ["ào bì", "ào mì", "yù mì"]
+      },
+      {
+        "word": "日益",
+        "pinyin": "rì yì",
+        "definition": "一天比一天",
+        "wrongOptions": ["rì yī", "yì yì", "rì yí"]
+      },
+      {
+        "word": "联系",
+        "pinyin": "lián xì",
+        "definition": "彼此接上关系",
+        "wrongOptions": ["lián xì", "nián xì", "lián jì"]
+      },
+      {
+        "word": "物质",
+        "pinyin": "wù zhì",
+        "definition": "独立存在于人的意识之外的客观实在",
+        "wrongOptions": ["wù zhí", "wù zì", "wù zhǐ"]
+      },
+      {
+        "word": "哲学",
+        "pinyin": "zhé xué",
+        "definition": "关于世界观的学说",
+        "wrongOptions": ["zé xué", "zhé xué", "zhé xüé"]
+      },
+      {
+        "word": "任何",
+        "pinyin": "rèn hé",
+        "definition": "不论什么",
+        "wrongOptions": ["rén hé", "rèn hē", "rèn hè"]
+      },
+      {
+        "word": "创造",
+        "pinyin": "chuàng zào",
+        "definition": "想出新方法、建立新理论、做出新的成绩或东西",
+        "wrongOptions": ["chuàng zào", "chuàng zāo", "cuàng zào"]
+      },
+      {
+        "word": "改善",
+        "pinyin": "gǎi shàn",
+        "definition": "改变原有情况使好一些",
+        "wrongOptions": ["gài shàn", "gǎi sàn", "gǎi shàn"]
+      }
+    ]
+  },
+  {
+    "lessonId": 8,
+    "lessonName": "蝴蝶的家",
+    "isOptional": true,
+    "recognitionChars": [
+      {
+        "char": "避",
+        "pinyin": "bì",
+        "word": "躲避",
+        "definition": "躲，逃开",
+        "wrongOptions": ["pì", "bǐ", "bī"]
+      },
+      {
+        "char": "撼",
+        "pinyin": "hàn",
+        "word": "震撼",
+        "definition": "摇动，摇",
+        "wrongOptions": ["gǎn", "hǎn", "kàn"]
+      },
+      {
+        "char": "喧",
+        "pinyin": "xuān",
+        "word": "喧嚷",
+        "definition": "声音大",
+        "wrongOptions": ["xuàn", "xuan", "yuān"]
+      },
+      {
+        "char": "雀",
+        "pinyin": "qiǎo",
+        "word": "家雀儿",
+        "definition": "特指麻雀",
+        "wrongOptions": ["què", "qiāo", "qiáo"]
+      },
+      {
+        "char": "檐",
+        "pinyin": "yán",
+        "word": "屋檐",
+        "definition": "房顶伸出墙壁的部分",
+        "wrongOptions": ["zhān", "yàn", "yǎn"]
+      }
+    ],
+    "writingChars": [],
+    "words": []
+  },
+  {
+    "lessonId": 992,
+    "lessonName": "语文园地 (第二单元)",
+    "isOptional": true,
+    "recognitionChars": [
+      {
+        "char": "驻",
+        "pinyin": "zhù",
+        "word": "驻扎",
+        "definition": "停留",
+        "wrongOptions": ["zhǔ", "zù", "zhú"]
+      },
+      {
+        "char": "钞",
+        "pinyin": "chāo",
+        "word": "钞票",
+        "definition": "纸币",
+        "wrongOptions": ["shāo", "chào", "cāo"]
+      },
+      {
+        "char": "培",
+        "pinyin": "péi",
+        "word": "培养",
+        "definition": "为了保护植物或帮助植物生长，在根部堆土",
+        "wrongOptions": ["péi", "bèi", "pēi"]
+      },
+      {
+        "char": "赌",
+        "pinyin": "dǔ",
+        "word": "赌博",
+        "definition": "用财物作注比输赢",
+        "wrongOptions": ["dū", "zhǔ", "tǔ"]
+      },
+      {
+        "char": "媒",
+        "pinyin": "méi",
+        "word": "媒体",
+        "definition": "撮合男女婚事的人，媒介",
+        "wrongOptions": ["móu", "měi", "mèi"]
+      },
+      {
+        "char": "氛",
+        "pinyin": "fēn",
+        "word": "气氛",
+        "definition": "气",
+        "wrongOptions": ["fèn", "fēng", "fěn"]
+      },
+      {
+        "char": "账",
+        "pinyin": "zhàng",
+        "word": "账本",
+        "definition": "关于货币、货物出入的记载",
+        "wrongOptions": ["zhāng", "zàng", "chàng"]
+      },
+      {
+        "char": "贺",
+        "pinyin": "hè",
+        "word": "祝贺",
+        "definition": "庆贺",
+        "wrongOptions": ["jià", "hé", "kè"]
+      },
+      {
+        "char": "樟",
+        "pinyin": "zhāng",
+        "word": "樟树",
+        "definition": "常绿乔木，有香气",
+        "wrongOptions": ["zhàng", "zāng", "chāng"]
+      },
+      {
+        "char": "杠",
+        "pinyin": "gàng",
+        "word": "杠杆",
+        "definition": "较粗的棍子",
+        "wrongOptions": ["gāng", "kàng", "gǎng"]
+      },
+      {
+        "char": "狡",
+        "pinyin": "jiǎo",
+        "word": "狡猾",
+        "definition": "诡诈",
+        "wrongOptions": ["jiāo", "jiào", "xiào"]
+      },
+      {
+        "char": "猾",
+        "pinyin": "huá",
+        "word": "狡猾",
+        "definition": "奸诈",
+        "wrongOptions": ["gǔ", "huà", "huā"]
+      }
+    ],
+    "writingChars": [],
+    "words": []
+  },
+  {
+    "lessonId": 9,
+    "lessonName": "古诗三首",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "暮",
+        "pinyin": "mù",
+        "word": "暮色",
+        "definition": "傍晚",
+        "wrongOptions": ["mò", "mò", "mǔ"]
+      },
+      {
+        "char": "瑟",
+        "pinyin": "sè",
+        "word": "瑟瑟",
+        "definition": "古代弦乐器，形容风声等",
+        "wrongOptions": ["shè", "sì", "bì"]
+      },
+      {
+        "char": "缘",
+        "pinyin": "yuán",
+        "word": "缘故",
+        "definition": "因由，因为",
+        "wrongOptions": ["yán", "yuàn", "luán"]
+      },
+      {
+        "char": "降",
+        "pinyin": "xiáng",
+        "word": "投降",
+        "definition": "投降，服输",
+        "wrongOptions": ["jiàng", "xiàng", "jiāng"]
+      },
+      {
+        "char": "骚",
+        "pinyin": "sāo",
+        "word": "骚人",
+        "definition": "扰乱，风骚",
+        "wrongOptions": ["shāo", "sǎo", "cāo"]
+      },
+      {
+        "char": "逊",
+        "pinyin": "xùn",
+        "word": "逊色",
+        "definition": "退避，差，次",
+        "wrongOptions": ["sūn", "xūn", "xun"]
+      },
+      {
+        "char": "输",
+        "pinyin": "shū",
+        "word": "认输",
+        "definition": "败，负",
+        "wrongOptions": ["sū", "yú", "shù"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "暮",
+        "pinyin": "mù",
+        "word": "日暮",
+        "definition": "傍晚",
+        "wrongOptions": ["mò", "mò", "mǔ"]
+      },
+      {
+        "char": "吟",
+        "pinyin": "yín",
+        "word": "吟诵",
+        "definition": "唱，声调抑扬地念",
+        "wrongOptions": ["jīn", "yīn", "rèn"]
+      },
+      {
+        "char": "题",
+        "pinyin": "tí",
+        "word": "题目",
+        "definition": "写上，签署",
+        "wrongOptions": ["dì", "tī", "tǐ"]
+      },
+      {
+        "char": "侧",
+        "pinyin": "cè",
+        "word": "侧面",
+        "definition": "旁",
+        "wrongOptions": ["zé", "chè", "cè"]
+      },
+      {
+        "char": "峰",
+        "pinyin": "fēng",
+        "word": "山峰",
+        "definition": "山的突出的尖顶",
+        "wrongOptions": ["fōng", "fēng", "fèng"]
+      },
+      {
+        "char": "庐",
+        "pinyin": "lú",
+        "word": "庐山",
+        "definition": "房舍",
+        "wrongOptions": ["hù", "lǔ", "lù"]
+      },
+      {
+        "char": "缘",
+        "pinyin": "yuán",
+        "word": "缘分",
+        "definition": "原因",
+        "wrongOptions": ["yán", "yuàn", "luán"]
+      },
+      {
+        "char": "降",
+        "pinyin": "xiáng",
+        "word": "降服",
+        "definition": "投降",
+        "wrongOptions": ["jiàng", "xiàng", "jiāng"]
+      },
+      {
+        "char": "费",
+        "pinyin": "fèi",
+        "word": "花费",
+        "definition": "用，耗",
+        "wrongOptions": ["fú", "fì", "fěi"]
+      },
+      {
+        "char": "须",
+        "pinyin": "xū",
+        "word": "必须",
+        "definition": "必得",
+        "wrongOptions": ["xǖ", "xú", "shùn"]
+      },
+      {
+        "char": "逊",
+        "pinyin": "xùn",
+        "word": "逊色",
+        "definition": "差，退让",
+        "wrongOptions": ["sūn", "xūn", "xun"]
+      },
+      {
+        "char": "输",
+        "pinyin": "shū",
+        "word": "输赢",
+        "definition": "负，败",
+        "wrongOptions": ["sū", "yú", "shù"]
+      }
+    ],
+    "words": []
+  },
+  {
+    "lessonId": 10,
+    "lessonName": "爬山虎的脚",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "均",
+        "pinyin": "jūn",
+        "word": "均匀",
+        "definition": "平，匀",
+        "wrongOptions": ["yún", "jūn", "jùn"]
+      },
+      {
+        "char": "柄",
+        "pinyin": "bǐng",
+        "word": "叶柄",
+        "definition": "器物的把儿",
+        "wrongOptions": ["bìng", "bǐn", "pǐng"]
+      },
+      {
+        "char": "蜗",
+        "pinyin": "wō",
+        "word": "蜗牛",
+        "definition": "软体动物",
+        "wrongOptions": ["guō", "wò", "wó"]
+      },
+      {
+        "char": "曲",
+        "pinyin": "qū",
+        "word": "弯曲",
+        "definition": "弯，不直",
+        "wrongOptions": ["qǔ", "qù", "qū"]
+      },
+      {
+        "char": "萎",
+        "pinyin": "wěi",
+        "word": "枯萎",
+        "definition": "干枯，衰落",
+        "wrongOptions": ["wēi", "wěi", "wèi"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "虎",
+        "pinyin": "hǔ",
+        "word": "老虎",
+        "definition": "哺乳动物，毛黄褐色，有黑色条纹",
+        "wrongOptions": ["hú", "fǔ", "xū"]
+      },
+      {
+        "char": "操",
+        "pinyin": "cāo",
+        "word": "操场",
+        "definition": "拿，抓在手里，从事",
+        "wrongOptions": ["zào", "cào", "chāo"]
+      },
+      {
+        "char": "占",
+        "pinyin": "zhàn",
+        "word": "占领",
+        "definition": "据有",
+        "wrongOptions": ["zàn", "zhān", "zhǎn"]
+      },
+      {
+        "char": "嫩",
+        "pinyin": "nèn",
+        "word": "嫩绿",
+        "definition": "初生而柔弱",
+        "wrongOptions": ["lùn", "nèng", "nén"]
+      },
+      {
+        "char": "顺",
+        "pinyin": "shùn",
+        "word": "顺利",
+        "definition": "向着同一个方向",
+        "wrongOptions": ["sùn", "shun", "xùn"]
+      },
+      {
+        "char": "均",
+        "pinyin": "jūn",
+        "word": "平均",
+        "definition": "平，匀",
+        "wrongOptions": ["yún", "jūn", "jùn"]
+      },
+      {
+        "char": "叠",
+        "pinyin": "dié",
+        "word": "重叠",
+        "definition": "一层加上一层",
+        "wrongOptions": ["diě", "tié", "diē"]
+      },
+      {
+        "char": "隙",
+        "pinyin": "xì",
+        "word": "空隙",
+        "definition": "裂缝",
+        "wrongOptions": ["xī", "jì", "xí"]
+      },
+      {
+        "char": "茎",
+        "pinyin": "jīng",
+        "word": "根茎",
+        "definition": "植物体的主干",
+        "wrongOptions": ["jìng", "jíng", "jǐng"]
+      },
+      {
+        "char": "柄",
+        "pinyin": "bǐng",
+        "word": "把柄",
+        "definition": "植物的花、叶或果实跟茎或枝连着的部分",
+        "wrongOptions": ["bìng", "bǐn", "pǐng"]
+      },
+      {
+        "char": "萎",
+        "pinyin": "wěi",
+        "word": "萎缩",
+        "definition": "干枯",
+        "wrongOptions": ["wēi", "wěi", "wèi"]
+      },
+      {
+        "char": "瞧",
+        "pinyin": "qiáo",
+        "word": "瞧见",
+        "definition": "看",
+        "wrongOptions": ["jiāo", "qiǎo", "jiào"]
+      },
+      {
+        "char": "固",
+        "pinyin": "gù",
+        "word": "牢固",
+        "definition": "结实，牢靠",
+        "wrongOptions": ["gǔ", "kù", "gu"]
+      }
+    ],
+    "words": [
+      {
+        "word": "爬山虎",
+        "pinyin": "pá shān hǔ",
+        "definition": "一种攀缘植物",
+        "wrongOptions": ["pá sān hǔ", "pá shān hǔ", "bá shān hǔ"]
+      },
+      {
+        "word": "操场",
+        "pinyin": "cāo chǎng",
+        "definition": "供体育活动用的场地",
+        "wrongOptions": ["cāo cháng", "cào chǎng", "zào chǎng"]
+      },
+      {
+        "word": "嫩红",
+        "pinyin": "nèn hóng",
+        "definition": "像韭黄那样的浅黄色中微透红色",
+        "wrongOptions": ["lùn hóng", "nèng hóng", "nèn hóng"]
+      },
+      {
+        "word": "舒服",
+        "pinyin": "shū fu",
+        "definition": "身体或精神上感到轻松愉快",
+        "wrongOptions": ["shū fú", "sū fu", "shū fū"]
+      },
+      {
+        "word": "均匀",
+        "pinyin": "jūn yún",
+        "definition": "分布或分配在各部分的数量相同",
+        "wrongOptions": ["jūn yún", "jūn yūn", "yún yún"]
+      },
+      {
+        "word": "重叠",
+        "pinyin": "chóng dié",
+        "definition": "（相同的东西）一层层堆叠",
+        "wrongOptions": ["zhòng dié", "chóng dié", "chóng diě"]
+      },
+      {
+        "word": "空隙",
+        "pinyin": "kòng xì",
+        "definition": "中间空着的地方",
+        "wrongOptions": ["kōng xì", "kòng xī", "kòng xì"]
+      },
+      {
+        "word": "叶柄",
+        "pinyin": "yè bǐng",
+        "definition": "叶片和茎连接的部分",
+        "wrongOptions": ["yè bìng", "yè bǐn", "yè píng"]
+      },
+      {
+        "word": "反面",
+        "pinyin": "fǎn miàn",
+        "definition": "物体的背面",
+        "wrongOptions": ["fǎn miàn", "fǎn miān", "fàn miàn"]
+      },
+      {
+        "word": "触角",
+        "pinyin": "chù jiǎo",
+        "definition": "昆虫等动物头上的感觉器官",
+        "wrongOptions": ["chù jué", "cù jiǎo", "chù jiào"]
+      },
+      {
+        "word": "弯曲",
+        "pinyin": "wān qū",
+        "definition": "不直",
+        "wrongOptions": ["wān qǔ", "wān qù", "wān qū"]
+      },
+      {
+        "word": "细小",
+        "pinyin": "xì xiǎo",
+        "definition": "很小",
+        "wrongOptions": ["xì xiǎo", "xì xiāo", "xì xiào"]
+      },
+      {
+        "word": "痕迹",
+        "pinyin": "hén jì",
+        "definition": "物体留下的印儿",
+        "wrongOptions": ["héng jì", "hén jī", "hén jì"]
+      },
+      {
+        "word": "瞧不起",
+        "pinyin": "qiáo bu qǐ",
+        "definition": "看不顺眼；轻视",
+        "wrongOptions": ["qiáo bù qǐ", "jiāo bu qǐ", "qiáo bu qī"]
+      },
+      {
+        "word": "牢固",
+        "pinyin": "láo gù",
+        "definition": "结实；坚固",
+        "wrongOptions": ["lāo gù", "láo gū", "náo gù"]
+      },
+      {
+        "word": "休想",
+        "pinyin": "xiū xiǎng",
+        "definition": "别想",
+        "wrongOptions": ["xiū xiang", "xiū xiàng", "xiū xiǎng"]
+      }
+    ]
+  },
+  {
+    "lessonId": 11,
+    "lessonName": "蟋蟀的住宅",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "宅",
+        "pinyin": "zhái",
+        "word": "住宅",
+        "definition": "住所，房子",
+        "wrongOptions": ["zái", "zhǎi", "zé"]
+      },
+      {
+        "char": "隐",
+        "pinyin": "yǐn",
+        "word": "隐蔽",
+        "definition": "藏起来，遮掩",
+        "wrongOptions": ["yěn", "yìn", "wěn"]
+      },
+      {
+        "char": "毫",
+        "pinyin": "háo",
+        "word": "毫米",
+        "definition": "细毛，一点儿",
+        "wrongOptions": ["hāo", "gāo", "hào"]
+      },
+      {
+        "char": "慎",
+        "pinyin": "shèn",
+        "word": "慎重",
+        "definition": "小心",
+        "wrongOptions": ["shén", "sèn", "shěn"]
+      },
+      {
+        "char": "址",
+        "pinyin": "zhǐ",
+        "word": "住址",
+        "definition": "地点",
+        "wrongOptions": ["zǐ", "chǐ", "zhī"]
+      },
+      {
+        "char": "良",
+        "pinyin": "liáng",
+        "word": "良好",
+        "definition": "好",
+        "wrongOptions": ["láng", "niáng", "liàng"]
+      },
+      {
+        "char": "掘",
+        "pinyin": "jué",
+        "word": "挖掘",
+        "definition": "刨，挖",
+        "wrongOptions": ["jüé", "qū", "juě"]
+      },
+      {
+        "char": "搜",
+        "pinyin": "sōu",
+        "word": "搜索",
+        "definition": "寻求",
+        "wrongOptions": ["shōu", "sǒu", "xiū"]
+      },
+      {
+        "char": "倾",
+        "pinyin": "qīng",
+        "word": "倾斜",
+        "definition": "歪，斜",
+        "wrongOptions": ["qíng", "qǐng", "qīn"]
+      },
+      {
+        "char": "骤",
+        "pinyin": "zhòu",
+        "word": "骤雨",
+        "definition": "急，快",
+        "wrongOptions": ["zòu", "jù", "zhǒu"]
+      },
+      {
+        "char": "置",
+        "pinyin": "zhì",
+        "word": "布置",
+        "definition": "放，设立",
+        "wrongOptions": ["zhí", "zì", "zhǐ"]
+      },
+      {
+        "char": "抛",
+        "pinyin": "pāo",
+        "word": "抛弃",
+        "definition": "扔，投",
+        "wrongOptions": ["pào", "bāo", "pǎo"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "宅",
+        "pinyin": "zhái",
+        "word": "豪宅",
+        "definition": "住所",
+        "wrongOptions": ["zái", "zhǎi", "zé"]
+      },
+      {
+        "char": "临",
+        "pinyin": "lín",
+        "word": "临时",
+        "definition": "来到，靠近",
+        "wrongOptions": ["líng", "lìn", "nīn"]
+      },
+      {
+        "char": "慎",
+        "pinyin": "shèn",
+        "word": "谨慎",
+        "definition": "小心",
+        "wrongOptions": ["shén", "sèn", "shěn"]
+      },
+      {
+        "char": "选",
+        "pinyin": "xuǎn",
+        "word": "选择",
+        "definition": "挑拣",
+        "wrongOptions": ["xüǎn", "xuàn", "suǎn"]
+      },
+      {
+        "char": "择",
+        "pinyin": "zé",
+        "word": "抉择",
+        "definition": "挑选",
+        "wrongOptions": ["zhé", "zè", "chè"]
+      },
+      {
+        "char": "址",
+        "pinyin": "zhǐ",
+        "word": "地址",
+        "definition": "地点",
+        "wrongOptions": ["zǐ", "chǐ", "zhī"]
+      },
+      {
+        "char": "良",
+        "pinyin": "liáng",
+        "word": "优良",
+        "definition": "好",
+        "wrongOptions": ["láng", "niáng", "liàng"]
+      },
+      {
+        "char": "穴",
+        "pinyin": "xué",
+        "word": "洞穴",
+        "definition": "洞，窝",
+        "wrongOptions": ["xuè", "xié", "xüé"]
+      },
+      {
+        "char": "厅",
+        "pinyin": "tīng",
+        "word": "客厅",
+        "definition": "聚会或招待客人的房间",
+        "wrongOptions": ["dīng", "tīng", "tíng"]
+      },
+      {
+        "char": "卧",
+        "pinyin": "wò",
+        "word": "卧室",
+        "definition": "躺下，睡觉",
+        "wrongOptions": ["wù", "wó", "wǒ"]
+      },
+      {
+        "char": "专",
+        "pinyin": "zhuān",
+        "word": "专家",
+        "definition": "集中在一件事上",
+        "wrongOptions": ["zuān", "zhuǎn", "zhuàn"]
+      },
+      {
+        "char": "卫",
+        "pinyin": "wèi",
+        "word": "卫生",
+        "definition": "保护，防护",
+        "wrongOptions": ["wéi", "weì", "wěi"]
+      },
+      {
+        "char": "较",
+        "pinyin": "jiào",
+        "word": "比较",
+        "definition": "比",
+        "wrongOptions": ["jiǎo", "xiào", "jiāo"]
+      }
+    ],
+    "words": [
+      {
+        "word": "住宅",
+        "pinyin": "zhù zhái",
+        "definition": "住房",
+        "wrongOptions": ["zhù zái", "zù zhái", "zhù zhǎi"]
+      },
+      {
+        "word": "临时",
+        "pinyin": "lín shí",
+        "definition": "非正式的；短时间的",
+        "wrongOptions": ["líng shí", "lín sí", "lín shì"]
+      },
+      {
+        "word": "功夫",
+        "pinyin": "gōng fu",
+        "definition": "（做事）所耗费的时间和精力",
+        "wrongOptions": ["gōng fū", "gōng fù", "gōng fu"]
+      },
+      {
+        "word": "随遇而安",
+        "pinyin": "suí yù ér ān",
+        "definition": "能适应各种环境，在任何环境中都能满足",
+        "wrongOptions": ["suí yù ér ān", "suí yù er ān", "suí yù ér àn"]
+      },
+      {
+        "word": "慎重",
+        "pinyin": "shèn zhòng",
+        "definition": "谨慎持重",
+        "wrongOptions": ["shèn zòng", "sèn zhòng", "shèn zhòng"]
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "definition": "挑选",
+        "wrongOptions": ["xuǎn zhe", "xüǎn zé", "xuǎn zhé"]
+      },
+      {
+        "word": "住址",
+        "pinyin": "zhù zhǐ",
+        "definition": "居住的地址",
+        "wrongOptions": ["zhù zǐ", "zù zhǐ", "zhù zhì"]
+      },
+      {
+        "word": "优良",
+        "pinyin": "yōu liáng",
+        "definition": "（品种、质量、成绩、作风等）十分好",
+        "wrongOptions": ["yōu niáng", "yōu liàng", "yiū liáng"]
+      },
+      {
+        "word": "洞穴",
+        "pinyin": "dòng xué",
+        "definition": "地洞或山洞（多指野兽或昆虫居住的）",
+        "wrongOptions": ["dòng xuè", "tòng xué", "dòng xié"]
+      },
+      {
+        "word": "大厅",
+        "pinyin": "dà tīng",
+        "definition": "较大的厅堂",
+        "wrongOptions": ["dà dīng", "dà tíng", "dà tīng"]
+      },
+      {
+        "word": "卧室",
+        "pinyin": "wò shì",
+        "definition": "睡觉的房间",
+        "wrongOptions": ["wò shǐ", "wù shì", "wò sí"]
+      },
+      {
+        "word": "专家",
+        "pinyin": "zhuān jiā",
+        "definition": "对某一门学问有专门研究或擅长某项技术的人",
+        "wrongOptions": ["zuān jiā", "zhuān jia", "zhuān jià"]
+      },
+      {
+        "word": "平整",
+        "pinyin": "píng zhěng",
+        "definition": "平正整齐",
+        "wrongOptions": ["píng zheng", "píng zhěn", "pín zhěng"]
+      },
+      {
+        "word": "清洁",
+        "pinyin": "qīng jié",
+        "definition": "没有尘土、油垢等",
+        "wrongOptions": ["qīng jiě", "qīng jie", "qīn jié"]
+      },
+      {
+        "word": "卫生",
+        "pinyin": "wèi shēng",
+        "definition": "合乎卫生情况的",
+        "wrongOptions": ["wèi shēng", "wèi sēng", "weì shēng"]
+      },
+      {
+        "word": "疲劳",
+        "pinyin": "pí láo",
+        "definition": "因体力或脑力消耗过多而需要休息",
+        "wrongOptions": ["pí lāo", "pí lǎo", "bí láo"]
+      }
+    ]
+  },
+  {
+    "lessonId": 12,
+    "lessonName": "盘古开天地",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "劈",
+        "pinyin": "pī",
+        "word": "劈开",
+        "definition": "用刀斧等砍或由纵面破开",
+        "wrongOptions": ["pǐ", "bī", "pì"]
+      },
+      {
+        "char": "缓",
+        "pinyin": "huǎn",
+        "word": "缓慢",
+        "definition": "慢，与“急”相对",
+        "wrongOptions": ["nuǎn", "huàn", "yuǎn"]
+      },
+      {
+        "char": "浊",
+        "pinyin": "zhuó",
+        "word": "浑浊",
+        "definition": "水不清",
+        "wrongOptions": ["zhú", "zuó", "chóng"]
+      },
+      {
+        "char": "丈",
+        "pinyin": "zhàng",
+        "word": "一丈",
+        "definition": "量词，长度单位",
+        "wrongOptions": ["zhāng", "zàng", "chàng"]
+      },
+      {
+        "char": "隆",
+        "pinyin": "lóng",
+        "word": "隆重",
+        "definition": "盛大，兴盛",
+        "wrongOptions": ["nóng", "lōng", "lǒng"]
+      },
+      {
+        "char": "肢",
+        "pinyin": "zhī",
+        "word": "四肢",
+        "definition": "人的手脚，动物的腿",
+        "wrongOptions": ["zī", "zhǐ", "jī"]
+      },
+      {
+        "char": "躯",
+        "pinyin": "qū",
+        "word": "躯干",
+        "definition": "身体",
+        "wrongOptions": ["qü", "qú", "xū"]
+      },
+      {
+        "char": "液",
+        "pinyin": "yè",
+        "word": "血液",
+        "definition": "液体",
+        "wrongOptions": ["yé", "yì", "yā"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "睁",
+        "pinyin": "zhēng",
+        "word": "睁眼",
+        "definition": "张开眼睛",
+        "wrongOptions": ["zheng", "zhèng", "zēng"]
+      },
+      {
+        "char": "翻",
+        "pinyin": "fān",
+        "word": "翻身",
+        "definition": "反转，歪倒",
+        "wrongOptions": ["fàn", "pān", "fāng"]
+      },
+      {
+        "char": "斧",
+        "pinyin": "fǔ",
+        "word": "斧头",
+        "definition": "砍东西的工具",
+        "wrongOptions": ["fū", "fù", "yé"]
+      },
+      {
+        "char": "劈",
+        "pinyin": "pī",
+        "word": "劈开",
+        "definition": "破开",
+        "wrongOptions": ["pǐ", "bī", "pì"]
+      },
+      {
+        "char": "缓",
+        "pinyin": "huǎn",
+        "word": "缓慢",
+        "definition": "慢",
+        "wrongOptions": ["nuǎn", "huàn", "yuǎn"]
+      },
+      {
+        "char": "浊",
+        "pinyin": "zhuó",
+        "word": "污浊",
+        "definition": "不干净",
+        "wrongOptions": ["zhú", "zuó", "chóng"]
+      },
+      {
+        "char": "丈",
+        "pinyin": "zhàng",
+        "word": "丈夫",
+        "definition": "量词",
+        "wrongOptions": ["zhāng", "zàng", "chàng"]
+      },
+      {
+        "char": "撑",
+        "pinyin": "chēng",
+        "word": "支撑",
+        "definition": "抵住",
+        "wrongOptions": ["zhǎng", "chǎng", "cēng"]
+      },
+      {
+        "char": "竭",
+        "pinyin": "jié",
+        "word": "枯竭",
+        "definition": "尽",
+        "wrongOptions": ["jiē", "xiē", "jié"]
+      },
+      {
+        "char": "累",
+        "pinyin": "lèi",
+        "word": "劳累",
+        "definition": "疲劳",
+        "wrongOptions": ["lěi", "léi", "leì"]
+      },
+      {
+        "char": "液",
+        "pinyin": "yè",
+        "word": "液体",
+        "definition": "汁，流质",
+        "wrongOptions": ["yé", "yì", "yā"]
+      },
+      {
+        "char": "奔",
+        "pinyin": "bēn",
+        "word": "奔跑",
+        "definition": "急跑",
+        "wrongOptions": ["bèn", "pēn", "běn"]
+      },
+      {
+        "char": "茂",
+        "pinyin": "mào",
+        "word": "茂盛",
+        "definition": "草木旺盛",
+        "wrongOptions": ["mò", "mǎo", "māo"]
+      },
+      {
+        "char": "滋",
+        "pinyin": "zī",
+        "word": "滋润",
+        "definition": "生出，长",
+        "wrongOptions": ["cī", "zhī", "zǐ"]
+      }
+    ],
+    "words": [
+      {
+        "word": "睁眼",
+        "pinyin": "zhēng yǎn",
+        "definition": "张开眼睛",
+        "wrongOptions": ["zheng yǎn", "zhèng yǎn", "zēng yǎn"]
+      },
+      {
+        "word": "黑乎乎",
+        "pinyin": "hēi hū hū",
+        "definition": "颜色黑黑的",
+        "wrongOptions": ["hēi hu hu", "hēi hū hu", "hēi hù hù"]
+      },
+      {
+        "word": "翻身",
+        "pinyin": "fān shēn",
+        "definition": "转动身体",
+        "wrongOptions": ["fān shēng", "fān shēn", "fàn shēn"]
+      },
+      {
+        "word": "斧头",
+        "pinyin": "fǔ tou",
+        "definition": "斧子",
+        "wrongOptions": ["fǔ tóu", "fù tou", "fǔ toú"]
+      },
+      {
+        "word": "缓缓",
+        "pinyin": "huǎn huǎn",
+        "definition": "慢慢",
+        "wrongOptions": ["huǎn huan", "nuǎn nuǎn", "huàn huàn"]
+      },
+      {
+        "word": "上升",
+        "pinyin": "shàng shēng",
+        "definition": "由低处向高处移动",
+        "wrongOptions": ["shàng sheng", "shàng shēn", "shàng cheng"]
+      },
+      {
+        "word": "下降",
+        "pinyin": "xià jiàng",
+        "definition": "从高处向低处移动",
+        "wrongOptions": ["xià xiáng", "xià jiang", "xià jiāng"]
+      },
+      {
+        "word": "精疲力竭",
+        "pinyin": "jīng pí lì jié",
+        "definition": "精神、力气消耗已尽。形容非常疲劳",
+        "wrongOptions": ["jīng pí lì jiē", "jīng pí lì xiē", "jīng pí lì jié"]
+      },
+      {
+        "word": "血液",
+        "pinyin": "xuè yè",
+        "definition": "人或动物体内的红色液体",
+        "wrongOptions": ["xiě yè", "xuè yì", "xuè ye"]
+      },
+      {
+        "word": "奔流不息",
+        "pinyin": "bēn liú bù xī",
+        "definition": "水流奔腾而不停止",
+        "wrongOptions": ["bèn liú bù xī", "bēn liú bù xī", "bēn niú bù xī"]
+      },
+      {
+        "word": "汗毛",
+        "pinyin": "hàn máo",
+        "definition": "人体皮肤上除头发、胡子等以外的细毛",
+        "wrongOptions": ["hàn māo", "hàn máo", "hàn mǎo"]
+      },
+      {
+        "word": "茂盛",
+        "pinyin": "mào shèng",
+        "definition": "（植物）生长得多而茁壮",
+        "wrongOptions": ["mào chéng", "mào shèn", "māo shèng"]
+      },
+      {
+        "word": "滋润",
+        "pinyin": "zī rùn",
+        "definition": "含水分多，不干燥",
+        "wrongOptions": ["zī rùn", "zī yùn", "zhī rùn"]
+      },
+      {
+        "word": "雨露",
+        "pinyin": "yǔ lù",
+        "definition": "雨和露水",
+        "wrongOptions": ["yǔ lòu", "yǔ lù", "yǔ lǜ"]
+      }
+    ]
+  },
+  {
+    "lessonId": 13,
+    "lessonName": "精卫填海",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "帝",
+        "pinyin": "dì",
+        "word": "皇帝",
+        "definition": "宗教徒或神话中称宇宙的创造者和主宰者",
+        "wrongOptions": ["tì", "dí", "zhì"]
+      },
+      {
+        "char": "少",
+        "pinyin": "shào",
+        "word": "少年",
+        "definition": "年纪轻",
+        "wrongOptions": ["shǎo", "sào", "chāo"]
+      },
+      {
+        "char": "曰",
+        "pinyin": "yuē",
+        "word": "子曰",
+        "definition": "说",
+        "wrongOptions": ["rì", "yuè", "yē"]
+      },
+      {
+        "char": "溺",
+        "pinyin": "nì",
+        "word": "溺水",
+        "definition": "淹没",
+        "wrongOptions": ["ruò", "nī", "lì"]
+      },
+      {
+        "char": "返",
+        "pinyin": "fǎn",
+        "word": "返回",
+        "definition": "回，归",
+        "wrongOptions": ["fàn", "bǎn", "fān"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "帝",
+        "pinyin": "dì",
+        "word": "大帝",
+        "definition": "最高统治者",
+        "wrongOptions": ["tì", "dí", "zhì"]
+      },
+      {
+        "char": "曰",
+        "pinyin": "yuē",
+        "word": "美其名曰",
+        "definition": "说",
+        "wrongOptions": ["rì", "yuè", "yē"]
+      },
+      {
+        "char": "溺",
+        "pinyin": "nì",
+        "word": "溺爱",
+        "definition": "淹没，沉迷",
+        "wrongOptions": ["ruò", "nī", "lì"]
+      },
+      {
+        "char": "返",
+        "pinyin": "fǎn",
+        "word": "往返",
+        "definition": "回来",
+        "wrongOptions": ["fàn", "bǎn", "fān"]
+      },
+      {
+        "char": "衔",
+        "pinyin": "xián",
+        "word": "衔接",
+        "definition": "用嘴含",
+        "wrongOptions": ["jiē", "xiǎn", "hán"]
+      }
+    ],
+    "words": []
+  },
+  {
+    "lessonId": 14,
+    "lessonName": "普罗米修斯",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "斯",
+        "pinyin": "sī",
+        "word": "斯文",
+        "definition": "这，乃",
+        "wrongOptions": ["shī", "sì", "sī"]
+      },
+      {
+        "char": "惨",
+        "pinyin": "cǎn",
+        "word": "悲惨",
+        "definition": "凶恶，狠毒，悲痛",
+        "wrongOptions": ["chǎn", "cān", "shān"]
+      },
+      {
+        "char": "盗",
+        "pinyin": "dào",
+        "word": "盗窃",
+        "definition": "偷",
+        "wrongOptions": ["dǎo", "tào", "diào"]
+      },
+      {
+        "char": "驰",
+        "pinyin": "chí",
+        "word": "奔驰",
+        "definition": "车马等跑得很快",
+        "wrongOptions": ["cí", "shǐ", "chì"]
+      },
+      {
+        "char": "恕",
+        "pinyin": "shù",
+        "word": "宽恕",
+        "definition": "原谅",
+        "wrongOptions": ["nù", "sù", "shǔ"]
+      },
+      {
+        "char": "坚",
+        "pinyin": "jiān",
+        "word": "坚持",
+        "definition": "牢固，结实",
+        "wrongOptions": ["qiān", "jiàn", "zhān"]
+      },
+      {
+        "char": "押",
+        "pinyin": "yā",
+        "word": "押送",
+        "definition": "拘留",
+        "wrongOptions": ["jiǎ", "yá", "yà"]
+      },
+      {
+        "char": "锁",
+        "pinyin": "suǒ",
+        "word": "封锁",
+        "definition": "安在门、箱等上面使人开不开的器具",
+        "wrongOptions": ["suó", "shuǒ", "sǒ"]
+      },
+      {
+        "char": "遭",
+        "pinyin": "zāo",
+        "word": "遭遇",
+        "definition": "遇见",
+        "wrongOptions": ["cāo", "zhāo", "zào"]
+      },
+      {
+        "char": "恶",
+        "pinyin": "è",
+        "word": "凶恶",
+        "definition": "不好，凶狠",
+        "wrongOptions": ["wù", "ě", "é"]
+      },
+      {
+        "char": "脏",
+        "pinyin": "zàng",
+        "word": "心脏",
+        "definition": "身体内部器官",
+        "wrongOptions": ["zāng", "zhāng", "cáng"]
+      },
+      {
+        "char": "愤",
+        "pinyin": "fèn",
+        "word": "愤怒",
+        "definition": "因不满意而情绪激动",
+        "wrongOptions": ["fēn", "fèng", "pēn"]
+      },
+      {
+        "char": "砸",
+        "pinyin": "zá",
+        "word": "砸碎",
+        "definition": "打，击，打破",
+        "wrongOptions": ["zā", "zhá", "cá"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "悲",
+        "pinyin": "bēi",
+        "word": "悲伤",
+        "definition": "伤心",
+        "wrongOptions": ["fēi", "bèi", "pēi"]
+      },
+      {
+        "char": "惨",
+        "pinyin": "cǎn",
+        "word": "惨败",
+        "definition": "狠，悲痛",
+        "wrongOptions": ["chǎn", "cān", "shān"]
+      },
+      {
+        "char": "兽",
+        "pinyin": "shòu",
+        "word": "野兽",
+        "definition": "有四条腿、全身生毛的脊椎动物",
+        "wrongOptions": ["sòu", "shǒu", "shōu"]
+      },
+      {
+        "char": "佩",
+        "pinyin": "pèi",
+        "word": "佩服",
+        "definition": "挂，带，钦佩",
+        "wrongOptions": ["bèi", "pēi", "péi"]
+      },
+      {
+        "char": "坚",
+        "pinyin": "jiān",
+        "word": "坚定",
+        "definition": "硬，牢固",
+        "wrongOptions": ["qiān", "jiàn", "zhān"]
+      },
+      {
+        "char": "违",
+        "pinyin": "wéi",
+        "word": "违反",
+        "definition": "不遵照",
+        "wrongOptions": ["wěi", "weì", "wēi"]
+      },
+      {
+        "char": "抗",
+        "pinyin": "kàng",
+        "word": "抗议",
+        "definition": "抵御",
+        "wrongOptions": ["háng", "kǎng", "gāng"]
+      },
+      {
+        "char": "环",
+        "pinyin": "huán",
+        "word": "环境",
+        "definition": "圆形的东西，围绕",
+        "wrongOptions": ["huàn", "hái", "huǎn"]
+      },
+      {
+        "char": "锁",
+        "pinyin": "suǒ",
+        "word": "锁链",
+        "definition": "封锁",
+        "wrongOptions": ["suó", "shuǒ", "sǒ"]
+      },
+      {
+        "char": "既",
+        "pinyin": "jì",
+        "word": "既然",
+        "definition": "已经，就",
+        "wrongOptions": ["jí", "jī", "jié"]
+      },
+      {
+        "char": "狠",
+        "pinyin": "hěn",
+        "word": "狠心",
+        "definition": "凶恶，残忍",
+        "wrongOptions": ["hěn", "hèng", "kěn"]
+      },
+      {
+        "char": "著",
+        "pinyin": "zhù",
+        "word": "著名",
+        "definition": "显明，显出",
+        "wrongOptions": ["zhǔ", "zù", "zhuó"]
+      },
+      {
+        "char": "愤",
+        "pinyin": "fèn",
+        "word": "气愤",
+        "definition": "生气",
+        "wrongOptions": ["fēn", "fèng", "pēn"]
+      },
+      {
+        "char": "获",
+        "pinyin": "huò",
+        "word": "收获",
+        "definition": "取得",
+        "wrongOptions": ["huó", "hè", "huō"]
+      }
+    ],
+    "words": [
+      {
+        "word": "人间",
+        "pinyin": "rén jiān",
+        "definition": "人类社会",
+        "wrongOptions": ["rén jiàn", "yén jiān", "rén jiān"]
+      },
+      {
+        "word": "悲惨",
+        "pinyin": "bēi cǎn",
+        "definition": "处境或遭遇极其痛苦，令人伤心",
+        "wrongOptions": ["bēi chǎn", "bēi cān", "fēi cǎn"]
+      },
+      {
+        "word": "情景",
+        "pinyin": "qíng jǐng",
+        "definition": "（具体场合的）情形，景象",
+        "wrongOptions": ["qíng jīng", "qín jǐng", "qíng jǐn"]
+      },
+      {
+        "word": "危害",
+        "pinyin": "wēi hài",
+        "definition": "使受破坏；损害",
+        "wrongOptions": ["weī hài", "wēi hai", "wěi hài"]
+      },
+      {
+        "word": "猛兽",
+        "pinyin": "měng shòu",
+        "definition": "凶猛的野兽",
+        "wrongOptions": ["měng sòu", "mēng shòu", "měng shǒu"]
+      },
+      {
+        "word": "严厉",
+        "pinyin": "yán lì",
+        "definition": "严肃而厉害",
+        "wrongOptions": ["yán nì", "yán lì", "yán lǐ"]
+      },
+      {
+        "word": "敬佩",
+        "pinyin": "jìng pèi",
+        "definition": "敬重佩服",
+        "wrongOptions": ["jìn pèi", "jìng bèi", "jìng pēi"]
+      },
+      {
+        "word": "悄悄",
+        "pinyin": "qiāo qiāo",
+        "definition": "没有声音或声音很低",
+        "wrongOptions": ["qiāo qiao", "qiǎo qiǎo", "qiāo qiāo"]
+      },
+      {
+        "word": "坚定",
+        "pinyin": "jiān dìng",
+        "definition": "（立场、主张、意志等）稳定坚强；不动摇",
+        "wrongOptions": ["jiān dìng", "jiān dīng", "jiàn dìng"]
+      },
+      {
+        "word": "违抗",
+        "pinyin": "wéi kàng",
+        "definition": "违背和抗拒",
+        "wrongOptions": ["wěi kàng", "wéi hàng", "weī kàng"]
+      },
+      {
+        "word": "狠心",
+        "pinyin": "hěn xīn",
+        "definition": "心肠残忍",
+        "wrongOptions": ["hěn xīng", "hěn xīn", "kěn xīn"]
+      },
+      {
+        "word": "尖利",
+        "pinyin": "jiān lì",
+        "definition": "尖锐；锋利",
+        "wrongOptions": ["jiān nì", "jiān lì", "jiàn lì"]
+      },
+      {
+        "word": "著名",
+        "pinyin": "zhù míng",
+        "definition": "有名",
+        "wrongOptions": ["zù míng", "zhù mín", "zhù mǐng"]
+      },
+      {
+        "word": "愤愤不平",
+        "pinyin": "fèn fèn bù píng",
+        "definition": "心中不服，感到气愤",
+        "wrongOptions": ["fèn fen bù píng", "fèn fèn bù pín", "fēn fēn bù píng"]
+      },
+      {
+        "word": "获得",
+        "pinyin": "huò dé",
+        "definition": "取得；得到",
+        "wrongOptions": ["huò de", "huó dé", "huò dé"]
+      }
+    ]
+  },
+  {
+    "lessonId": 15,
+    "lessonName": "女娲补天",
+    "isOptional": true,
+    "recognitionChars": [
+      {
+        "char": "措",
+        "pinyin": "cuò",
+        "word": "措施",
+        "definition": "安排，处理",
+        "wrongOptions": ["cù", "cuó", "xī"]
+      },
+      {
+        "char": "混",
+        "pinyin": "hùn",
+        "word": "混乱",
+        "definition": "掺杂，蒙混",
+        "wrongOptions": ["hūn", "kūn", "hǔn"]
+      },
+      {
+        "char": "项",
+        "pinyin": "xiàng",
+        "word": "项目",
+        "definition": "量词，条",
+        "wrongOptions": ["xàng", "xiāng", "shàng"]
+      },
+      {
+        "char": "熄",
+        "pinyin": "xī",
+        "word": "熄灭",
+        "definition": "火灭",
+        "wrongOptions": ["xí", "xì", "shī"]
+      },
+      {
+        "char": "浆",
+        "pinyin": "jiāng",
+        "word": "泥浆",
+        "definition": "比较浓的液体",
+        "wrongOptions": ["jiǎng", "jiàng", "qiāng"]
+      },
+      {
+        "char": "塌",
+        "pinyin": "tā",
+        "word": "倒塌",
+        "definition": "倒，下陷",
+        "wrongOptions": ["tà", "dā", "tá"]
+      },
+      {
+        "char": "杀",
+        "pinyin": "shā",
+        "word": "杀害",
+        "definition": "使人或动物失去生命",
+        "wrongOptions": ["shà", "sā", "shá"]
+      },
+      {
+        "char": "颂",
+        "pinyin": "sòng",
+        "word": "歌颂",
+        "definition": "赞扬",
+        "wrongOptions": ["sōng", "shòng", "sǒng"]
+      },
+      {
+        "char": "绩",
+        "pinyin": "jì",
+        "word": "成绩",
+        "definition": "功业，成果",
+        "wrongOptions": ["jī", "jí", "zì"]
+      }
+    ],
+    "writingChars": [],
+    "words": []
+  },
+  {
+    "lessonId": 992,
+    "lessonName": "语文园地 (第二单元)",
+    "isOptional": true,
+    "recognitionChars": [
+      {
+        "char": "驻",
+        "pinyin": "zhù",
+        "word": "驻扎",
+        "definition": "停留",
+        "wrongOptions": ["zhǔ", "zù", "zhú"]
+      },
+      {
+        "char": "钞",
+        "pinyin": "chāo",
+        "word": "钞票",
+        "definition": "纸币",
+        "wrongOptions": ["shāo", "chào", "cāo"]
+      },
+      {
+        "char": "培",
+        "pinyin": "péi",
+        "word": "培养",
+        "definition": "为了保护植物或帮助植物生长，在根部堆土",
+        "wrongOptions": ["péi", "bèi", "pēi"]
+      },
+      {
+        "char": "赌",
+        "pinyin": "dǔ",
+        "word": "赌博",
+        "definition": "用财物作注比输赢",
+        "wrongOptions": ["dū", "zhǔ", "tǔ"]
+      },
+      {
+        "char": "媒",
+        "pinyin": "méi",
+        "word": "媒体",
+        "definition": "撮合男女婚事的人，媒介",
+        "wrongOptions": ["móu", "měi", "mèi"]
+      },
+      {
+        "char": "氛",
+        "pinyin": "fēn",
+        "word": "气氛",
+        "definition": "气",
+        "wrongOptions": ["fèn", "fēng", "fěn"]
+      },
+      {
+        "char": "账",
+        "pinyin": "zhàng",
+        "word": "账本",
+        "definition": "关于货币、货物出入的记载",
+        "wrongOptions": ["zhāng", "zàng", "chàng"]
+      },
+      {
+        "char": "贺",
+        "pinyin": "hè",
+        "word": "祝贺",
+        "definition": "庆贺",
+        "wrongOptions": ["jià", "hé", "kè"]
+      },
+      {
+        "char": "樟",
+        "pinyin": "zhāng",
+        "word": "樟树",
+        "definition": "常绿乔木，有香气",
+        "wrongOptions": ["zhàng", "zāng", "chāng"]
+      },
+      {
+        "char": "杠",
+        "pinyin": "gàng",
+        "word": "杠杆",
+        "definition": "较粗的棍子",
+        "wrongOptions": ["gāng", "kàng", "gǎng"]
+      },
+      {
+        "char": "狡",
+        "pinyin": "jiǎo",
+        "word": "狡猾",
+        "definition": "诡诈",
+        "wrongOptions": ["jiāo", "jiào", "xiào"]
+      },
+      {
+        "char": "猾",
+        "pinyin": "huá",
+        "word": "狡猾",
+        "definition": "奸诈",
+        "wrongOptions": ["gǔ", "huà", "huā"]
+      }
+    ],
+    "writingChars": [],
+    "words": []
+  },
+  {
+    "lessonId": 994,
+    "lessonName": "语文园地 (第四单元)",
+    "isOptional": true,
+    "recognitionChars": [
+      {
+        "char": "圃",
+        "pinyin": "pǔ",
+        "word": "花圃",
+        "definition": "种植蔬菜、花草、苗木的园地",
+        "wrongOptions": ["pú", "bǔ", "fǔ"]
+      },
+      {
+        "char": "卉",
+        "pinyin": "huì",
+        "word": "花卉",
+        "definition": "草的总称",
+        "wrongOptions": ["bēn", "fēn", "huí"]
+      },
+      {
+        "char": "蕾",
+        "pinyin": "lěi",
+        "word": "花蕾",
+        "definition": "含苞未放的花",
+        "wrongOptions": ["léi", "lèi", "lěi"]
+      },
+      {
+        "char": "蕊",
+        "pinyin": "ruǐ",
+        "word": "花蕊",
+        "definition": "植物的生殖器官",
+        "wrongOptions": ["xīn", "ruì", "ruí"]
+      },
+      {
+        "char": "玫",
+        "pinyin": "méi",
+        "word": "玫瑰",
+        "definition": "美玉",
+        "wrongOptions": ["měi", "mó", "mèi"]
+      },
+      {
+        "char": "茉",
+        "pinyin": "mò",
+        "word": "茉莉",
+        "definition": "茉莉",
+        "wrongOptions": ["mè", "mǒ", "mó"]
+      },
+      {
+        "char": "莉",
+        "pinyin": "lì",
+        "word": "茉莉",
+        "definition": "茉莉",
+        "wrongOptions": ["lī", "lí", "lǐ"]
+      },
+      {
+        "char": "牡",
+        "pinyin": "mǔ",
+        "word": "牡丹",
+        "definition": "雄性的鸟兽",
+        "wrongOptions": ["mù", "mū", "niú"]
+      },
+      {
+        "char": "丹",
+        "pinyin": "dān",
+        "word": "牡丹",
+        "definition": "红色",
+        "wrongOptions": ["dǎn", "tān", "dàn"]
+      },
+      {
+        "char": "棠",
+        "pinyin": "táng",
+        "word": "海棠",
+        "definition": "植物名",
+        "wrongOptions": ["tāng", "dáng", "tǎng"]
+      }
+    ],
+    "writingChars": [],
+    "words": []
+  },
+
+  {
+    "lessonId": 16,
+    "lessonName": "麻雀",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "嗅",
+        "pinyin": "xiù",
+        "word": "嗅觉",
+        "definition": "闻，用鼻子辨别气味",
+        "wrongOptions": ["xiū", "xiǔ", "chòu"]
+      },
+      {
+        "char": "奈",
+        "pinyin": "nài",
+        "word": "无可奈何",
+        "definition": "怎样，如何",
+        "wrongOptions": ["nǎi", "là", "nāi"]
+      },
+      {
+        "char": "拯",
+        "pinyin": "zhěng",
+        "word": "拯救",
+        "definition": "援救，救助",
+        "wrongOptions": ["chéng", "zhěn", "zèng"]
+      },
+      {
+        "char": "嘶",
+        "pinyin": "sī",
+        "word": "嘶哑",
+        "definition": "马叫",
+        "wrongOptions": ["shī", "sī", "xī"]
+      },
+      {
+        "char": "哑",
+        "pinyin": "yǎ",
+        "word": "沙哑",
+        "definition": "嗓子干涩发不出声音或发音低沉不圆润",
+        "wrongOptions": ["yā", "yà", "wà"]
+      },
+      {
+        "char": "庞",
+        "pinyin": "páng",
+        "word": "庞大",
+        "definition": "大",
+        "wrongOptions": ["lóng", "báng", "pǎng"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "嗅",
+        "pinyin": "xiù",
+        "word": "嗅闻",
+        "definition": "闻",
+        "wrongOptions": ["xiū", "xiǔ", "chòu"]
+      },
+      {
+        "char": "呆",
+        "pinyin": "dāi",
+        "word": "发呆",
+        "definition": "傻，头脑发迟",
+        "wrongOptions": ["ái", "dái", "dǎi"]
+      },
+      {
+        "char": "奈",
+        "pinyin": "nài",
+        "word": "无奈",
+        "definition": "如何，怎样",
+        "wrongOptions": ["nǎi", "là", "nāi"]
+      },
+      {
+        "char": "巢",
+        "pinyin": "cháo",
+        "word": "鸟巢",
+        "definition": "鸟兽藏身的地方",
+        "wrongOptions": ["cáo", "zhāo", "sháo"]
+      },
+      {
+        "char": "齿",
+        "pinyin": "chǐ",
+        "word": "牙齿",
+        "definition": "牙",
+        "wrongOptions": ["cǐ", "chī", "zhǐ"]
+      },
+      {
+        "char": "躯",
+        "pinyin": "qū",
+        "word": "身躯",
+        "definition": "身体",
+        "wrongOptions": ["qü", "qú", "xū"]
+      },
+      {
+        "char": "掩",
+        "pinyin": "yǎn",
+        "word": "掩护",
+        "definition": "遮盖，关",
+        "wrongOptions": ["ān", "yān", "yàn"]
+      },
+      {
+        "char": "护",
+        "pinyin": "hù",
+        "word": "保护",
+        "definition": "保卫，遮挡",
+        "wrongOptions": ["fù", "hú", "kù"]
+      },
+      {
+        "char": "幼",
+        "pinyin": "yòu",
+        "word": "幼儿",
+        "definition": "年纪小",
+        "wrongOptions": ["yào", "yōu", "liù"]
+      },
+      {
+        "char": "搏",
+        "pinyin": "bó",
+        "word": "搏斗",
+        "definition": "对打",
+        "wrongOptions": ["bé", "bò", "pó"]
+      },
+      {
+        "char": "庞",
+        "pinyin": "páng",
+        "word": "庞大",
+        "definition": "大，高大",
+        "wrongOptions": ["lóng", "báng", "pǎng"]
+      },
+      {
+        "char": "量",
+        "pinyin": "liàng",
+        "word": "力量",
+        "definition": "限度，数量",
+        "wrongOptions": ["liáng", "làng", "niàng"]
+      },
+      {
+        "char": "愣",
+        "pinyin": "lèng",
+        "word": "发愣",
+        "definition": "发呆，失神",
+        "wrongOptions": ["lēng", "nèng", "làng"]
+      }
+    ],
+    "words": [
+      {
+        "word": "打猎",
+        "pinyin": "dǎ liè",
+        "definition": "在野外捕捉鸟兽",
+        "wrongOptions": ["dá liè", "dǎ liě", "dǎ niè"]
+      },
+      {
+        "word": "猛烈",
+        "pinyin": "měng liè",
+        "definition": "气势大，力量大",
+        "wrongOptions": ["mēng liè", "měng niè", "měng liě"]
+      },
+      {
+        "word": "无可奈何",
+        "pinyin": "wú kě nài hé",
+        "definition": "没有办法",
+        "wrongOptions": ["wú kě nǎi hé", "wú kè nài hé", "wú kě là hé"]
+      },
+      {
+        "word": "拍打",
+        "pinyin": "pāi dǎ",
+        "definition": "轻轻地打",
+        "wrongOptions": ["pāi dá", "pài dǎ", "bāi dǎ"]
+      },
+      {
+        "word": "嘴角",
+        "pinyin": "zuǐ jiǎo",
+        "definition": "嘴的上下两唇接合处",
+        "wrongOptions": ["zuǐ jué", "zuǐ jiāo", "zhuǐ jiǎo"]
+      },
+      {
+        "word": "分明",
+        "pinyin": "fēn míng",
+        "definition": "清楚，显然",
+        "wrongOptions": ["fēng míng", "fēn mín", "fēn mǐng"]
+      },
+      {
+        "word": "牙齿",
+        "pinyin": "yá chǐ",
+        "definition": "人和高等动物咬切、咀嚼食物的器官",
+        "wrongOptions": ["yá cǐ", "yá chì", "yá zǐ"]
+      },
+      {
+        "word": "绝望",
+        "pinyin": "jué wàng",
+        "definition": "希望断绝，毫无希望",
+        "wrongOptions": ["jié wàng", "jué wāng", "jué wáng"]
+      },
+      {
+        "word": "尖叫",
+        "pinyin": "jiān jiào",
+        "definition": "声音尖锐地叫",
+        "wrongOptions": ["jiān jiāo", "jiàn jiào", "xiān jiào"]
+      },
+      {
+        "word": "身躯",
+        "pinyin": "shēn qū",
+        "definition": "身体",
+        "wrongOptions": ["shēn qü", "sēn qū", "shēn qú"]
+      },
+      {
+        "word": "掩护",
+        "pinyin": "yǎn hù",
+        "definition": "采取措施，保护队伍或人员的行动和安全",
+        "wrongOptions": ["yān hù", "yǎn fù", "yǎn hú"]
+      },
+      {
+        "word": "幼儿",
+        "pinyin": "yòu ér",
+        "definition": "幼小的孩子，这里指幼小的鸟",
+        "wrongOptions": ["yào ér", "yòu er", "yòu rí"]
+      },
+      {
+        "word": "搏斗",
+        "pinyin": "bó dòu",
+        "definition": "徒手或用兵器激烈地对打",
+        "wrongOptions": ["bé dòu", "bó dǒu", "pó dòu"]
+      },
+      {
+        "word": "庞大",
+        "pinyin": "páng dà",
+        "definition": "很大（常指形体、组织或数量等）",
+        "wrongOptions": ["lóng dà", "páng dài", "báng dà"]
+      },
+      {
+        "word": "安然",
+        "pinyin": "ān rán",
+        "definition": "平安；安安稳稳地",
+        "wrongOptions": ["ān rán", "ān rǎn", "āng rán"]
+      },
+      {
+        "word": "强大",
+        "pinyin": "qiáng dà",
+        "definition": "（力量）坚强雄厚",
+        "wrongOptions": ["qiǎng dà", "jiáng dà", "qiáng tà"]
+      },
+      {
+        "word": "力量",
+        "pinyin": "lì liàng",
+        "definition": "力气",
+        "wrongOptions": ["lì liáng", "lì niàng", "nì liàng"]
+      }
+    ]
+  },
+  {
+    "lessonId": 17,
+    "lessonName": "爬天都峰",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "级",
+        "pinyin": "jí",
+        "word": "石级",
+        "definition": "等级，台阶",
+        "wrongOptions": ["jī", "jǐ", "xí"]
+      },
+      {
+        "char": "链",
+        "pinyin": "liàn",
+        "word": "铁链",
+        "definition": "用金属环连套而成的索子",
+        "wrongOptions": ["lián", "làn", "niàn"]
+      },
+      {
+        "char": "攀",
+        "pinyin": "pān",
+        "word": "攀登",
+        "definition": "抓住东西向上爬",
+        "wrongOptions": ["fān", "pán", "bān"]
+      },
+      {
+        "char": "相",
+        "pinyin": "xiàng",
+        "word": "照相",
+        "definition": "容貌，样子",
+        "wrongOptions": ["xiāng", "xàng", "shàng"]
+      },
+      {
+        "char": "辫",
+        "pinyin": "biàn",
+        "word": "辫子",
+        "definition": "把头发分股编成的带状物",
+        "wrongOptions": ["biān", "bàn", "piàn"]
+      },
+      {
+        "char": "呵",
+        "pinyin": "hē",
+        "word": "笑呵呵",
+        "definition": "叹词，表示惊讶",
+        "wrongOptions": ["kē", "hā", "hé"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "级",
+        "pinyin": "jí",
+        "word": "年级",
+        "definition": "等级",
+        "wrongOptions": ["jī", "jǐ", "xí"]
+      },
+      {
+        "char": "链",
+        "pinyin": "liàn",
+        "word": "铁链",
+        "definition": "链子",
+        "wrongOptions": ["lián", "làn", "niàn"]
+      },
+      {
+        "char": "颤",
+        "pinyin": "chàn",
+        "word": "发颤",
+        "definition": "物体振动",
+        "wrongOptions": ["zhàn", "shàn", "càn"]
+      },
+      {
+        "char": "攀",
+        "pinyin": "pān",
+        "word": "攀爬",
+        "definition": "抓住东西向上爬",
+        "wrongOptions": ["fān", "pán", "bān"]
+      },
+      {
+        "char": "猴",
+        "pinyin": "hóu",
+        "word": "猴子",
+        "definition": "哺乳动物，种类很多",
+        "wrongOptions": ["hòu", "huó", "hǒu"]
+      },
+      {
+        "char": "念",
+        "pinyin": "niàn",
+        "word": "思念",
+        "definition": "惦记，想念",
+        "wrongOptions": ["liàn", "niān", "nàn"]
+      },
+      {
+        "char": "辫",
+        "pinyin": "biàn",
+        "word": "发辫",
+        "definition": "分股编成的头发",
+        "wrongOptions": ["biān", "bàn", "piàn"]
+      },
+      {
+        "char": "呵",
+        "pinyin": "hē",
+        "word": "呵斥",
+        "definition": "怒责",
+        "wrongOptions": ["kē", "hā", "hé"]
+      }
+    ],
+    "words": [
+      {
+        "word": "假日",
+        "pinyin": "jià rì",
+        "definition": "休假的日子",
+        "wrongOptions": ["jiǎ rì", "jià yì", "jià rí"]
+      },
+      {
+        "word": "云彩",
+        "pinyin": "yún cai",
+        "definition": "云（口语）",
+        "wrongOptions": ["yún cǎi", "yún cài", "yún cāi"]
+      },
+      {
+        "word": "石级",
+        "pinyin": "shí jí",
+        "definition": "石头台阶",
+        "wrongOptions": ["shí jī", "sí jí", "shí jì"]
+      },
+      {
+        "word": "发颤",
+        "pinyin": "fā chàn",
+        "definition": "发抖",
+        "wrongOptions": ["fā zhàn", "fā shàn", "fā càn"]
+      },
+      {
+        "word": "年纪",
+        "pinyin": "nián jì",
+        "definition": "年龄",
+        "wrongOptions": ["nián jǐ", "lián jì", "nián jī"]
+      },
+      {
+        "word": "奋力",
+        "pinyin": "fèn lì",
+        "definition": "充分鼓起劲来",
+        "wrongOptions": ["fēn lì", "fèn nì", "fèng lì"]
+      },
+      {
+        "word": "猴子",
+        "pinyin": "hóu zi",
+        "definition": "一种灵长目动物",
+        "wrongOptions": ["hóu zǐ", "hòu zi", "huó zi"]
+      },
+      {
+        "word": "纪念",
+        "pinyin": "jì niàn",
+        "definition": "用事物或行动对人或事表示怀念",
+        "wrongOptions": ["jì liàn", "jì nian", "jì niān"]
+      },
+      {
+        "word": "辫子",
+        "pinyin": "biàn zi",
+        "definition": "分股编紧的头发",
+        "wrongOptions": ["biān zi", "bàn zi", "biàn zǐ"]
+      },
+      {
+        "word": "笑呵呵",
+        "pinyin": "xiào hē hē",
+        "definition": "形容笑的样子",
+        "wrongOptions": ["xiào hā hā", "xiào kē kē", "xiào hè hè"]
+      },
+      {
+        "word": "鼓舞",
+        "pinyin": "gǔ wǔ",
+        "definition": "使振作起来，增强信心",
+        "wrongOptions": ["gǔ wú", "gū wǔ", "gǔ wù"]
+      },
+      {
+        "word": "居然",
+        "pinyin": "jū rán",
+        "definition": "表示出乎意料",
+        "wrongOptions": ["jü rán", "jū rǎn", "jū yán"]
+      }
+    ]
+  },
+  {
+    "lessonId": 18,
+    "lessonName": "牛和鹅",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "谓",
+        "pinyin": "wèi",
+        "word": "所谓",
+        "definition": "告诉，说",
+        "wrongOptions": ["wéi", "wěi", "weì"]
+      },
+      {
+        "char": "拳",
+        "pinyin": "quán",
+        "word": "拳头",
+        "definition": "屈指卷握的手",
+        "wrongOptions": ["qüán", "quǎn", "juǎn"]
+      },
+      {
+        "char": "捶",
+        "pinyin": "chuí",
+        "word": "捶背",
+        "definition": "敲打",
+        "wrongOptions": ["chuī", "chuǐ", "cuí"]
+      },
+      {
+        "char": "顽",
+        "pinyin": "wán",
+        "word": "顽皮",
+        "definition": "愚钝，愚蠢，淘气",
+        "wrongOptions": ["wān", "wǎn", "yuán"]
+      },
+      {
+        "char": "吁",
+        "pinyin": "yū",
+        "word": "吁气",
+        "definition": "叹气",
+        "wrongOptions": ["yù", "xū", "yú"]
+      },
+      {
+        "char": "襟",
+        "pinyin": "jīn",
+        "word": "衣襟",
+        "definition": "上衣的前幅",
+        "wrongOptions": ["jìn", "jīng", "jǐn"]
+      },
+      {
+        "char": "膊",
+        "pinyin": "bó",
+        "word": "胳膊",
+        "definition": "上肢，肩膀以下手腕以上的部分",
+        "wrongOptions": ["bō", "bé", "pó"]
+      },
+      {
+        "char": "瓶",
+        "pinyin": "píng",
+        "word": "瓶子",
+        "definition": "容器，颈细肚大",
+        "wrongOptions": ["pín", "pǐng", "bíng"]
+      },
+      {
+        "char": "怖",
+        "pinyin": "bù",
+        "word": "恐怖",
+        "definition": "害怕",
+        "wrongOptions": ["pù", "bú", "bǔ"]
+      },
+      {
+        "char": "凭",
+        "pinyin": "píng",
+        "word": "凭证",
+        "definition": "靠，依靠",
+        "wrongOptions": ["pín", "pǐng", "bíng"]
+      },
+      {
+        "char": "欺",
+        "pinyin": "qī",
+        "word": "欺负",
+        "definition": "压迫，侮辱",
+        "wrongOptions": ["qí", "jī", "qǐ"]
+      },
+      {
+        "char": "掐",
+        "pinyin": "qiā",
+        "word": "掐算",
+        "definition": "用拇指和另一个指头用力按或夹",
+        "wrongOptions": ["qā", "qiá", "xiā"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "摸",
+        "pinyin": "mō",
+        "word": "抚摸",
+        "definition": "用手接触",
+        "wrongOptions": ["mó", "mǒ", "mò"]
+      },
+      {
+        "char": "甚",
+        "pinyin": "shèn",
+        "word": "甚至",
+        "definition": "厉害，严重",
+        "wrongOptions": ["shén", "sèn", "shěn"]
+      },
+      {
+        "char": "跪",
+        "pinyin": "guì",
+        "word": "下跪",
+        "definition": "两膝着地",
+        "wrongOptions": ["kuì", "guǐ", "guī"]
+      },
+      {
+        "char": "捶",
+        "pinyin": "chuí",
+        "word": "捶打",
+        "definition": "用拳头敲打",
+        "wrongOptions": ["chuī", "chuǐ", "cuí"]
+      },
+      {
+        "char": "绕",
+        "pinyin": "rào",
+        "word": "围绕",
+        "definition": "缠在上面",
+        "wrongOptions": ["yào", "ráo", "rǎo"]
+      },
+      {
+        "char": "顽",
+        "pinyin": "wán",
+        "word": "顽皮",
+        "definition": "顽固，淘气",
+        "wrongOptions": ["wān", "wǎn", "yuán"]
+      },
+      {
+        "char": "脖",
+        "pinyin": "bó",
+        "word": "脖子",
+        "definition": "颈",
+        "wrongOptions": ["bō", "bé", "pó"]
+      },
+      {
+        "char": "脱",
+        "pinyin": "tuō",
+        "word": "逃脱",
+        "definition": "离开，掉落",
+        "wrongOptions": ["tuó", "tuǒ", "duō"]
+      },
+      {
+        "char": "概",
+        "pinyin": "gài",
+        "word": "大概",
+        "definition": "大略，大致",
+        "wrongOptions": ["kài", "gǎi", "gāi"]
+      },
+      {
+        "char": "惹",
+        "pinyin": "rě",
+        "word": "惹祸",
+        "definition": "招引，引起",
+        "wrongOptions": ["ruò", "rè", "rē"]
+      },
+      {
+        "char": "昏",
+        "pinyin": "hūn",
+        "word": "黄昏",
+        "definition": "天刚黑，神志不清",
+        "wrongOptions": ["huīn", "hùn", "hūn"]
+      },
+      {
+        "char": "握",
+        "pinyin": "wò",
+        "word": "握手",
+        "definition": "手指弯曲合拢，执持",
+        "wrongOptions": ["wū", "wó", "wǒ"]
+      },
+      {
+        "char": "摔",
+        "pinyin": "shuāi",
+        "word": "摔倒",
+        "definition": "用力往下扔",
+        "wrongOptions": ["suāi", "shuài", "shuā"]
+      },
+      {
+        "char": "凭",
+        "pinyin": "píng",
+        "word": "任凭",
+        "definition": "靠，根据",
+        "wrongOptions": ["pín", "pǐng", "bíng"]
+      },
+      {
+        "char": "掐",
+        "pinyin": "qiā",
+        "word": "掐断",
+        "definition": "用手指用力按或夹",
+        "wrongOptions": ["qā", "qiá", "xiā"]
+      }
+    ],
+    "words": [
+      {
+        "word": "甚至",
+        "pinyin": "shèn zhì",
+        "definition": "表示更进一层的意思",
+        "wrongOptions": ["shén zhì", "sèn zhì", "shèn zì"]
+      },
+      {
+        "word": "顽皮",
+        "pinyin": "wán pí",
+        "definition": "爱玩爱闹；不听劝导",
+        "wrongOptions": ["wān pí", "wǎn pí", "yuán pí"]
+      },
+      {
+        "word": "故意",
+        "pinyin": "gù yì",
+        "definition": "存心；有意识地",
+        "wrongOptions": ["gū yì", "gù yī", "gǔ yì"]
+      },
+      {
+        "word": "脖子",
+        "pinyin": "bó zi",
+        "definition": "头和躯干相连接的部分",
+        "wrongOptions": ["bó zǐ", "bō zi", "pó zi"]
+      },
+      {
+        "word": "扑打",
+        "pinyin": "pū dǎ",
+        "definition": "拍打",
+        "wrongOptions": ["pū dá", "bū dǎ", "pù dǎ"]
+      },
+      {
+        "word": "忙乱",
+        "pinyin": "máng luàn",
+        "definition": "事情繁忙而没有条理",
+        "wrongOptions": ["máng luan", "máng nuàn", "mǎng luàn"]
+      },
+      {
+        "word": "大概",
+        "pinyin": "dà gài",
+        "definition": "表示不很精确的估计",
+        "wrongOptions": ["dà kài", "dà gǎi", "dà gāi"]
+      },
+      {
+        "word": "助威",
+        "pinyin": "zhù wēi",
+        "definition": "帮助增加声势",
+        "wrongOptions": ["zù wēi", "zhù wéi", "zhù weī"]
+      },
+      {
+        "word": "昏乱",
+        "pinyin": "hūn luàn",
+        "definition": "头脑迷糊，神志不清",
+        "wrongOptions": ["hūn luan", "hūn nuàn", "hùn luàn"]
+      },
+      {
+        "word": "结实",
+        "pinyin": "jiē shi",
+        "definition": "强健；牢固",
+        "wrongOptions": ["jiē shí", "jié shi", "jiē shì"]
+      },
+      {
+        "word": "汉子",
+        "pinyin": "hàn zi",
+        "definition": "男子",
+        "wrongOptions": ["hàn zǐ", "hàn zì", "hàng zi"]
+      },
+      {
+        "word": "可笑",
+        "pinyin": "kě xiào",
+        "definition": "令人发笑；荒唐",
+        "wrongOptions": ["kè xiào", "kě xiāo", "hé xiào"]
+      },
+      {
+        "word": "无缘无故",
+        "pinyin": "wú yuán wú gù",
+        "definition": "没有一点原因",
+        "wrongOptions": ["wú yuán wú gū", "wú yán wú gù", "wú yuán wú gǔ"]
+      },
+      {
+        "word": "平白",
+        "pinyin": "píng bái",
+        "definition": "平白无故",
+        "wrongOptions": ["pín bái", "píng bǎi", "bíng bái"]
+      }
+    ]
+  },
+  {
+    "lessonId": 19,
+    "lessonName": "一只窝囊的大老虎",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "囊",
+        "pinyin": "náng",
+        "word": "窝囊",
+        "definition": "口袋",
+        "wrongOptions": ["láng", "năng", "nǎng"]
+      },
+      {
+        "char": "露",
+        "pinyin": "lòu",
+        "word": "露脸",
+        "definition": "显现，显出",
+        "wrongOptions": ["lù", "lōu", "nòu"]
+      },
+      {
+        "char": "羡",
+        "pinyin": "xiàn",
+        "word": "羡慕",
+        "definition": "贪慕，因喜爱而希望得到",
+        "wrongOptions": ["qiàn", "xuàn", "xiàng"]
+      },
+      {
+        "char": "角",
+        "pinyin": "jué",
+        "word": "角色",
+        "definition": "演员扮演的剧中人物",
+        "wrongOptions": ["jiǎo", "jüé", "jiào"]
+      },
+      {
+        "char": "殷",
+        "pinyin": "yīn",
+        "word": "殷切",
+        "definition": "深厚，恳切",
+        "wrongOptions": ["yān", "yǐn", "yīng"]
+      },
+      {
+        "char": "撇",
+        "pinyin": "piě",
+        "word": "撇嘴",
+        "definition": "平着扔，嘴嘴角歪向一边",
+        "wrongOptions": ["piē", "biě", "pěi"]
+      },
+      {
+        "char": "啊",
+        "pinyin": "á",
+        "word": "啊呜",
+        "definition": "助词",
+        "wrongOptions": ["a", "ǎ", "à"]
+      },
+      {
+        "char": "霉",
+        "pinyin": "méi",
+        "word": "发霉",
+        "definition": "东西因受潮而生的一种菌",
+        "wrongOptions": ["měi", "mó", "mèi"]
+      },
+      {
+        "char": "亏",
+        "pinyin": "kuī",
+        "word": "幸亏",
+        "definition": "缺损，幸而",
+        "wrongOptions": ["guī", "kuì", "kuí"]
+      },
+      {
+        "char": "哄",
+        "pinyin": "hōng",
+        "word": "哄堂大笑",
+        "definition": "许多人同时发出声音",
+        "wrongOptions": ["hǒng", "hòng", "gōng"]
+      },
+      {
+        "char": "拙",
+        "pinyin": "zhuō",
+        "word": "笨拙",
+        "definition": "笨",
+        "wrongOptions": ["zhuó", "chū", "zuō"]
+      },
+      {
+        "char": "唉",
+        "pinyin": "ài",
+        "word": "唉声叹气",
+        "definition": "答应的声音，叹息的声音",
+        "wrongOptions": ["āi", "ǎi", "à"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "班",
+        "pinyin": "bān",
+        "word": "班级",
+        "definition": "为了工作或学习而编成的组织",
+        "wrongOptions": ["pān", "bǎn", "bāng"]
+      },
+      {
+        "char": "殷",
+        "pinyin": "yīn",
+        "word": "殷切",
+        "definition": "深厚",
+        "wrongOptions": ["yān", "yǐn", "yīng"]
+      },
+      {
+        "char": "段",
+        "pinyin": "duàn",
+        "word": "段落",
+        "definition": "部分，量词",
+        "wrongOptions": ["dàn", "duèn", "tuàn"]
+      },
+      {
+        "char": "俩",
+        "pinyin": "liǎ",
+        "word": "哥俩",
+        "definition": "两个",
+        "wrongOptions": ["liǎng", "liá", "liā"]
+      },
+      {
+        "char": "练",
+        "pinyin": "liàn",
+        "word": "排练",
+        "definition": "反复学习",
+        "wrongOptions": ["lián", "niàn", "làn"]
+      },
+      {
+        "char": "套",
+        "pinyin": "tào",
+        "word": "手套",
+        "definition": "罩在上面的东西",
+        "wrongOptions": ["dào", "tāo", "tiào"]
+      },
+      {
+        "char": "裤",
+        "pinyin": "kù",
+        "word": "裤子",
+        "definition": "穿在腰以下的衣服",
+        "wrongOptions": ["kú", "gù", "hù"]
+      },
+      {
+        "char": "逃",
+        "pinyin": "táo",
+        "word": "逃跑",
+        "definition": "躲开不愿意接待的人或环境",
+        "wrongOptions": ["tāo", "dáo", "tǎo"]
+      },
+      {
+        "char": "亏",
+        "pinyin": "kuī",
+        "word": "亏损",
+        "definition": "缺损",
+        "wrongOptions": ["guī", "kuì", "kuí"]
+      },
+      {
+        "char": "挖",
+        "pinyin": "wā",
+        "word": "挖掘",
+        "definition": "掘",
+        "wrongOptions": ["wá", "wǎ", "yā"]
+      },
+      {
+        "char": "撤",
+        "pinyin": "chè",
+        "word": "撤退",
+        "definition": "免除，退",
+        "wrongOptions": ["cè", "zhé", "chā"]
+      },
+      {
+        "char": "堂",
+        "pinyin": "táng",
+        "word": "礼堂",
+        "definition": "正房，专门用来举行集会的地方",
+        "wrongOptions": ["tāng", "dáng", "tǎng"]
+      },
+      {
+        "char": "砸",
+        "pinyin": "zá",
+        "word": "砸锅",
+        "definition": "打，击，打破",
+        "wrongOptions": ["zā", "zhá", "cá"]
+      },
+      {
+        "char": "锅",
+        "pinyin": "guō",
+        "word": "铁锅",
+        "definition": "烹饪器具",
+        "wrongOptions": ["guō", "guò", "kuō"]
+      }
+    ],
+    "words": [
+      {
+        "word": "文艺",
+        "pinyin": "wén yì",
+        "definition": "文学和艺术",
+        "wrongOptions": ["wén yí", "wén yì", "wén nì"]
+      },
+      {
+        "word": "表演",
+        "pinyin": "biǎo yǎn",
+        "definition": "戏剧、舞蹈等演出",
+        "wrongOptions": ["biǎo yiǎn", "biǎo yān", "piao yǎn"]
+      },
+      {
+        "word": "班级",
+        "pinyin": "bān jí",
+        "definition": "学校里的教学单位",
+        "wrongOptions": ["bān jī", "bān jì", "pān jí"]
+      },
+      {
+        "word": "角色",
+        "pinyin": "jué sè",
+        "definition": "演员扮演的剧中人物",
+        "wrongOptions": ["jiǎo sè", "jué shǎi", "jiǎo shǎi"]
+      },
+      {
+        "word": "殷切",
+        "pinyin": "yīn qiè",
+        "definition": "深厚而恳切",
+        "wrongOptions": ["yān qiè", "yīn qiē", "yīn qì"]
+      },
+      {
+        "word": "期待",
+        "pinyin": "qī dài",
+        "definition": "期望；等待",
+        "wrongOptions": ["qī dái", "qí dài", "jī dài"]
+      },
+      {
+        "word": "排练",
+        "pinyin": "pái liàn",
+        "definition": "排演练习",
+        "wrongOptions": ["pǎi liàn", "pái niàn", "pái lián"]
+      },
+      {
+        "word": "危机",
+        "pinyin": "wēi jī",
+        "definition": "危险的祸根；严重困难的关头",
+        "wrongOptions": ["weī jī", "wēi jí", "wéi jī"]
+      },
+      {
+        "word": "通情达理",
+        "pinyin": "tōng qíng dá lǐ",
+        "definition": "懂人情，讲道理",
+        "wrongOptions": ["tōng qíng dā lǐ", "tōng qíng dá lǐ", "tōng qíng dá ni"]
+      },
+      {
+        "word": "充分",
+        "pinyin": "chōng fèn",
+        "definition": "足够（多用于抽象事物）",
+        "wrongOptions": ["chōng fēn", "cōng fèn", "chōng fen"]
+      },
+      {
+        "word": "自信",
+        "pinyin": "zì xìn",
+        "definition": "自己相信自己",
+        "wrongOptions": ["zhì xìn", "zì xīng", "zì xīn"]
+      },
+      {
+        "word": "提示",
+        "pinyin": "tí shì",
+        "definition": "把对方没有想到或想不到的提出来，引起注意",
+        "wrongOptions": ["tí shi", "tí shǐ", "dí shì"]
+      },
+      {
+        "word": "撤换",
+        "pinyin": "chè huàn",
+        "definition": "撤掉并换上",
+        "wrongOptions": ["cè huàn", "chè huan", "chè huàng"]
+      },
+      {
+        "word": "紧张",
+        "pinyin": "jǐn zhāng",
+        "definition": "精神处于高度准备状态；不镇静",
+        "wrongOptions": ["jǐn zhǎng", "jǐng zhāng", "jìn zhāng"]
+      },
+      {
+        "word": "哄堂大笑",
+        "pinyin": "hōng táng dà xiào",
+        "definition": "形容全屋子的人同时大笑",
+        "wrongOptions": ["hǒng táng dà xiào", "hōng táng dà xiào", "hòng táng dà xiào"]
+      },
+      {
+        "word": "砸锅",
+        "pinyin": "zá guō",
+        "definition": "比喻做事失败",
+        "wrongOptions": ["zā guō", "zá guō", "zá guò"]
+      },
+      {
+        "word": "至今",
+        "pinyin": "zhì jīn",
+        "definition": "直到现在",
+        "wrongOptions": ["zì jīn", "zhì jīng", "zhì jìn"]
+      }
+    ]
+  },
+  {
+    "lessonId": 20,
+    "lessonName": "陀螺",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "钉",
+        "pinyin": "dìng",
+        "word": "钉子",
+        "definition": "金属或竹木做成的东西，可以打入别的东西里面",
+        "wrongOptions": ["dīng", "tīng", "dì"]
+      },
+      {
+        "char": "况",
+        "pinyin": "kuàng",
+        "word": "情况",
+        "definition": "情形，比方",
+        "wrongOptions": ["kàng", "kuáng", "huàng"]
+      },
+      {
+        "char": "兵",
+        "pinyin": "bīng",
+        "word": "士兵",
+        "definition": "武器，战士",
+        "wrongOptions": ["bīn", "pīng", "bǐng"]
+      },
+      {
+        "char": "败",
+        "pinyin": "bài",
+        "word": "失败",
+        "definition": "输，毁坏",
+        "wrongOptions": ["pài", "bái", "bǎi"]
+      },
+      {
+        "char": "恨",
+        "pinyin": "hèn",
+        "word": "仇恨",
+        "definition": "怨，仇视",
+        "wrongOptions": ["hěn", "hèng", "kěn"]
+      },
+      {
+        "char": "帅",
+        "pinyin": "shuài",
+        "word": "帅气",
+        "definition": "军队中最高的指挥员，漂亮",
+        "wrongOptions": ["suài", "shuāi", "shài"]
+      },
+      {
+        "char": "彻",
+        "pinyin": "chè",
+        "word": "彻底",
+        "definition": "通，透",
+        "wrongOptions": ["cè", "qiè", "chè"]
+      },
+      {
+        "char": "溃",
+        "pinyin": "kuì",
+        "word": "溃败",
+        "definition": "大水冲开，乱，散",
+        "wrongOptions": ["guì", "kuí", "kuǐ"]
+      },
+      {
+        "char": "誉",
+        "pinyin": "yù",
+        "word": "荣誉",
+        "definition": "名声",
+        "wrongOptions": ["yǜ", "yú", "teng"]
+      },
+      {
+        "char": "丑",
+        "pinyin": "chǒu",
+        "word": "丑陋",
+        "definition": "难看，不好",
+        "wrongOptions": ["cǒu", "chóu", "xiǔ"]
+      },
+      {
+        "char": "豪",
+        "pinyin": "háo",
+        "word": "自豪",
+        "definition": "具有杰出才能的人，气魄大",
+        "wrongOptions": ["hāo", "áo", "hǎo"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "否",
+        "pinyin": "fǒu",
+        "word": "否则",
+        "definition": "不然，不是",
+        "wrongOptions": ["fōu", "fǒ", "pǐ"]
+      },
+      {
+        "char": "旋",
+        "pinyin": "xuán",
+        "word": "旋转",
+        "definition": "转动",
+        "wrongOptions": ["xuàn", "xuān", "xüán"]
+      },
+      {
+        "char": "况",
+        "pinyin": "kuàng",
+        "word": "况且",
+        "definition": "情形",
+        "wrongOptions": ["kàng", "kuáng", "huàng"]
+      },
+      {
+        "char": "兵",
+        "pinyin": "bīng",
+        "word": "士兵",
+        "definition": "武器",
+        "wrongOptions": ["bīn", "pīng", "bǐng"]
+      },
+      {
+        "char": "败",
+        "pinyin": "bài",
+        "word": "失败",
+        "definition": "输",
+        "wrongOptions": ["pài", "bái", "bǎi"]
+      },
+      {
+        "char": "椅",
+        "pinyin": "yǐ",
+        "word": "椅子",
+        "definition": "有靠背的坐具",
+        "wrongOptions": ["yī", "yí", "qí"]
+      },
+      {
+        "char": "尤",
+        "pinyin": "yóu",
+        "word": "尤其",
+        "definition": "特，更",
+        "wrongOptions": ["yiú", "lóng", "yōu"]
+      },
+      {
+        "char": "恨",
+        "pinyin": "hèn",
+        "word": "悔恨",
+        "definition": "怨",
+        "wrongOptions": ["hěn", "hèng", "kěn"]
+      },
+      {
+        "char": "帅",
+        "pinyin": "shuài",
+        "word": "元帅",
+        "definition": "军队最高指挥官",
+        "wrongOptions": ["suài", "shuāi", "shài"]
+      },
+      {
+        "char": "预",
+        "pinyin": "yù",
+        "word": "预料",
+        "definition": "事先",
+        "wrongOptions": ["yǜ", "xū", "yú"]
+      },
+      {
+        "char": "溃",
+        "pinyin": "kuì",
+        "word": "崩溃",
+        "definition": "散乱",
+        "wrongOptions": ["guì", "kuí", "kuǐ"]
+      },
+      {
+        "char": "品",
+        "pinyin": "pǐn",
+        "word": "品味",
+        "definition": "辨别好坏",
+        "wrongOptions": ["pǐng", "pīn", "bǐn"]
+      },
+      {
+        "char": "丑",
+        "pinyin": "chǒu",
+        "word": "小丑",
+        "definition": "相貌难看",
+        "wrongOptions": ["cǒu", "chóu", "xiǔ"]
+      },
+      {
+        "char": "豪",
+        "pinyin": "háo",
+        "word": "豪杰",
+        "definition": "气魄大",
+        "wrongOptions": ["hāo", "áo", "hǎo"]
+      }
+    ],
+    "words": [
+      {
+        "word": "冰天雪地",
+        "pinyin": "bīng tiān xuě dì",
+        "definition": "形容冰雪漫天盖地，非常寒冷",
+        "wrongOptions": ["bīn tiān xuě dì", "bīng tiān xuě de", "bīng tiān xuě tí"]
+      },
+      {
+        "word": "否则",
+        "pinyin": "fǒu zé",
+        "definition": "如果不是这样",
+        "wrongOptions": ["fōu zé", "fǒu ze", "fǒu zè"]
+      },
+      {
+        "word": "旋转",
+        "pinyin": "xuán zhuǎn",
+        "definition": "物体围绕一个点或一个轴做圆周运动",
+        "wrongOptions": ["xuàn zhuǎn", "xuán zhuàn", "xuān zhuǎn"]
+      },
+      {
+        "word": "重整旗鼓",
+        "pinyin": "chóng zhěng qí gǔ",
+        "definition": "指失败之后，重新集合力量再干",
+        "wrongOptions": ["zhòng zhěng qí gǔ", "chóng zheng qí gǔ", "chóng zhěng qí gǔ"]
+      },
+      {
+        "word": "况且",
+        "pinyin": "kuàng qiě",
+        "definition": "表示更进一层",
+        "wrongOptions": ["kuàng qiě", "kuàng qie", "kuàng qiě"]
+      },
+      {
+        "word": "得心应手",
+        "pinyin": "dé xīn yìng shǒu",
+        "definition": "心里怎么想，手就能怎么做。形容技艺纯熟",
+        "wrongOptions": ["de xīn yìng shǒu", "dé xīng yìng shǒu", "dé xīn yīng shǒu"]
+      },
+      {
+        "word": "椅子",
+        "pinyin": "yǐ zi",
+        "definition": "有靠背的坐具",
+        "wrongOptions": ["yǐ zǐ", "yí zi", "yī zi"]
+      },
+      {
+        "word": "尤其",
+        "pinyin": "yóu qí",
+        "definition": "表示更进一层",
+        "wrongOptions": ["yiú qí", "yóu qī", "yóu qǐ"]
+      },
+      {
+        "word": "手舞足蹈",
+        "pinyin": "shǒu wǔ zú dǎo",
+        "definition": "双手舞动，两只脚也跳起来。形容高兴到了极点",
+        "wrongOptions": ["shóu wǔ zú dǎo", "shǒu wǔ zú dào", "shǒu wǔ zú tǎo"]
+      },
+      {
+        "word": "恨不得",
+        "pinyin": "hèn bu de",
+        "definition": "急切希望（实现某事）",
+        "wrongOptions": ["hèn bù de", "hèn bu dé", "hěn bu de"]
+      },
+      {
+        "word": "预料",
+        "pinyin": "yù liào",
+        "definition": "事前推测",
+        "wrongOptions": ["yǜ liào", "yù niào", "yù liāo"]
+      },
+      {
+        "word": "不动声色",
+        "pinyin": "bù dòng shēng sè",
+        "definition": "内心活动不从言语和神态上表现出来，形容镇静",
+        "wrongOptions": ["bú dòng shēng sè", "bù dòng shēn sè", "bù dòng shēng shè"]
+      },
+      {
+        "word": "顽强",
+        "pinyin": "wán qiáng",
+        "definition": "坚强；强硬",
+        "wrongOptions": ["wān qiáng", "wán qiǎng", "yuán qiáng"]
+      },
+      {
+        "word": "溃败",
+        "pinyin": "kuì bài",
+        "definition": "（军队）被打垮",
+        "wrongOptions": ["guì bài", "kuì pài", "kuì bái"]
+      },
+      {
+        "word": "自豪",
+        "pinyin": "zì háo",
+        "definition": "因为自己或者与自己有关的集体或个人具有优良品质或取得伟大成就而感到光荣",
+        "wrongOptions": ["zhì háo", "zì hāo", "zì hǎo"]
+      }
+    ]
+  },
+  {
+    "lessonId": 996,
+    "lessonName": "语文园地 (第六单元)",
+    "isOptional": true,
+    "recognitionChars": [
+      {
+        "char": "韭",
+        "pinyin": "jiǔ",
+        "word": "韭菜",
+        "definition": "一种蔬菜，叶子细长扁平",
+        "wrongOptions": ["fēi", "jiū", "qiū"]
+      },
+      {
+        "char": "芥",
+        "pinyin": "jiè",
+        "word": "芥菜",
+        "definition": "一种蔬菜",
+        "wrongOptions": ["jié", "gài", "jiē"]
+      },
+      {
+        "char": "芹",
+        "pinyin": "qín",
+        "word": "芹菜",
+        "definition": "一种蔬菜",
+        "wrongOptions": ["jīn", "qíng", "kěn"]
+      },
+      {
+        "char": "蒜",
+        "pinyin": "suàn",
+        "word": "大蒜",
+        "definition": "一种多年生草本植物，有强烈气味",
+        "wrongOptions": ["suān", "shuàn", "shuan"]
+      },
+      {
+        "char": "椒",
+        "pinyin": "jiāo",
+        "word": "辣椒",
+        "definition": "一种蔬菜或调味品，味辣",
+        "wrongOptions": ["shū", "jiǎo", "jiào"]
+      },
+      {
+        "char": "藕",
+        "pinyin": "ǒu",
+        "word": "莲藕",
+        "definition": "莲的地下茎，肥大有节，可食",
+        "wrongOptions": ["óu", "ǒu", "ou"]
+      },
+      {
+        "char": "薯",
+        "pinyin": "shǔ",
+        "word": "红薯",
+        "definition": "多年生草本植物，块根可食",
+        "wrongOptions": ["shú", "chǔ", "zhǔ"]
+      },
+      {
+        "char": "芋",
+        "pinyin": "yù",
+        "word": "芋头",
+        "definition": "多年生草本植物，块茎可食",
+        "wrongOptions": ["yú", "yū", "yǔ"]
+      }
+    ],
+    "writingChars": [],
+    "words": []
+  },
+  {
+    "lessonId": 21,
+    "lessonName": "古诗三首",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "塞",
+        "pinyin": "sài",
+        "word": "出塞",
+        "definition": "边界上险要的地方",
+        "wrongOptions": ["sāi", "sè", "shài"]
+      },
+      {
+        "char": "秦",
+        "pinyin": "qín",
+        "word": "秦国",
+        "definition": "朝代名，中国周代诸侯国名",
+        "wrongOptions": ["qíng", "chín", "qǐn"]
+      },
+      {
+        "char": "征",
+        "pinyin": "zhēng",
+        "word": "长征",
+        "definition": "远行",
+        "wrongOptions": ["zhèng", "zēng", "zhēn"]
+      },
+      {
+        "char": "将",
+        "pinyin": "jiàng",
+        "word": "将领",
+        "definition": "军衔，统率",
+        "wrongOptions": ["jiāng", "qiāng", "jiǎng"]
+      },
+      {
+        "char": "杰",
+        "pinyin": "jié",
+        "word": "杰出",
+        "definition": "才能出众",
+        "wrongOptions": ["jiē", "jí", "qié"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "塞",
+        "pinyin": "sài",
+        "word": "边塞",
+        "definition": "边界险要处",
+        "wrongOptions": ["sāi", "sè", "shài"]
+      },
+      {
+        "char": "秦",
+        "pinyin": "qín",
+        "word": "秦朝",
+        "definition": "朝代名",
+        "wrongOptions": ["qíng", "chín", "qǐn"]
+      },
+      {
+        "char": "征",
+        "pinyin": "zhēng",
+        "word": "征战",
+        "definition": "远行，讨伐",
+        "wrongOptions": ["zhèng", "zēng", "zhēn"]
+      },
+      {
+        "char": "词",
+        "pinyin": "cí",
+        "word": "诗词",
+        "definition": "一种韵文体裁",
+        "wrongOptions": ["chí", "cī", "sī"]
+      },
+      {
+        "char": "催",
+        "pinyin": "cuī",
+        "word": "催促",
+        "definition": "使赶快行动",
+        "wrongOptions": ["chuī", "cuí", "cuǐ"]
+      },
+      {
+        "char": "醉",
+        "pinyin": "zuì",
+        "word": "醉酒",
+        "definition": "饮酒过量，神志不清",
+        "wrongOptions": ["zhuì", "zuǐ", "suì"]
+      },
+      {
+        "char": "杰",
+        "pinyin": "jié",
+        "word": "杰作",
+        "definition": "特异的，超过一般的",
+        "wrongOptions": ["jiē", "jí", "qié"]
+      },
+      {
+        "char": "亦",
+        "pinyin": "yì",
+        "word": "亦然",
+        "definition": "也",
+        "wrongOptions": ["yī", "yí", "jì"]
+      },
+      {
+        "char": "雄",
+        "pinyin": "xióng",
+        "word": "英雄",
+        "definition": "强有力的",
+        "wrongOptions": ["xiōng", "xúng", "xiong"]
+      },
+      {
+        "char": "项",
+        "pinyin": "xiàng",
+        "word": "项羽",
+        "definition": "颈的后部，姓",
+        "wrongOptions": ["xàng", "xiāng", "shàng"]
+      }
+    ],
+    "words": []
+  },
+  {
+    "lessonId": 22,
+    "lessonName": "为中华之崛起而读书",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "崛",
+        "pinyin": "jué",
+        "word": "崛起",
+        "definition": "高起，突起",
+        "wrongOptions": ["qū", "juě", "juē"]
+      },
+      {
+        "char": "范",
+        "pinyin": "fàn",
+        "word": "模范",
+        "definition": "榜样",
+        "wrongOptions": ["fàng", "fán", "fǎn"]
+      },
+      {
+        "char": "魏",
+        "pinyin": "wèi",
+        "word": "姓魏",
+        "definition": "姓",
+        "wrongOptions": ["wéi", "guǐ", "weì"]
+      },
+      {
+        "char": "晰",
+        "pinyin": "xī",
+        "word": "清晰",
+        "definition": "清楚",
+        "wrongOptions": ["xí", "xì", "zhé"]
+      },
+      {
+        "char": "效",
+        "pinyin": "xiào",
+        "word": "效仿",
+        "definition": "模仿",
+        "wrongOptions": ["xiāo", "jiāo", "xiǎo"]
+      },
+      {
+        "char": "淮",
+        "pinyin": "huái",
+        "word": "淮安",
+        "definition": "水名",
+        "wrongOptions": ["huài", "zhǔn", "hái"]
+      },
+      {
+        "char": "惑",
+        "pinyin": "huò",
+        "word": "疑惑",
+        "definition": "不明白",
+        "wrongOptions": ["huó", "gǎn", "huō"]
+      },
+      {
+        "char": "惩",
+        "pinyin": "chéng",
+        "word": "惩罚",
+        "definition": "处罚",
+        "wrongOptions": ["chěng", "zhēng", "chēng"]
+      },
+      {
+        "char": "斥",
+        "pinyin": "chì",
+        "word": "训斥",
+        "definition": "责备",
+        "wrongOptions": ["cì", "chī", "chǐ"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "肃",
+        "pinyin": "sù",
+        "word": "严肃",
+        "definition": "恭敬，认直",
+        "wrongOptions": ["shù", "xù", "sū"]
+      },
+      {
+        "char": "默",
+        "pinyin": "mò",
+        "word": "沉默",
+        "definition": "不说话",
+        "wrongOptions": ["mè", "mò", "mǒ"]
+      },
+      {
+        "char": "晰",
+        "pinyin": "xī",
+        "word": "清晰",
+        "definition": "清楚",
+        "wrongOptions": ["xí", "xì", "zhé"]
+      },
+      {
+        "char": "振",
+        "pinyin": "zhèn",
+        "word": "振兴",
+        "definition": "摇动，奋起",
+        "wrongOptions": ["zhèng", "zèn", "chèn"]
+      },
+      {
+        "char": "胸",
+        "pinyin": "xiōng",
+        "word": "胸怀",
+        "definition": "身体前面颈下腹上的部分",
+        "wrongOptions": ["xiōng", "xiong", "xū"]
+      },
+      {
+        "char": "怀",
+        "pinyin": "huái",
+        "word": "怀念",
+        "definition": "思念，胸前",
+        "wrongOptions": ["huài", "huá", "hái"]
+      },
+      {
+        "char": "赞",
+        "pinyin": "zàn",
+        "word": "赞叹",
+        "definition": "夸奖",
+        "wrongOptions": ["zhàn", "zān", "zǎn"]
+      },
+      {
+        "char": "效",
+        "pinyin": "xiào",
+        "word": "效果",
+        "definition": "功用，模仿",
+        "wrongOptions": ["xiāo", "jiāo", "xiǎo"]
+      },
+      {
+        "char": "凡",
+        "pinyin": "fán",
+        "word": "平凡",
+        "definition": "平常，总共",
+        "wrongOptions": ["fàn", "fǎn", "fāng"]
+      },
+      {
+        "char": "顾",
+        "pinyin": "gù",
+        "word": "照顾",
+        "definition": "看，照管",
+        "wrongOptions": ["gū", "gǔ", "kù"]
+      },
+      {
+        "char": "训",
+        "pinyin": "xùn",
+        "word": "教训",
+        "definition": "教导，训诫",
+        "wrongOptions": ["xūn", "xǔn", "shùn"]
+      },
+      {
+        "char": "斥",
+        "pinyin": "chì",
+        "word": "排斥",
+        "definition": "责备，使退去",
+        "wrongOptions": ["cì", "chī", "chǐ"]
+      }
+    ],
+    "words": [
+      {
+        "word": "严肃",
+        "pinyin": "yán sù",
+        "definition": "（神情、气氛等）使人感到敬畏",
+        "wrongOptions": ["yán shù", "yán sū", "yán sǜ"]
+      },
+      {
+        "word": "默默",
+        "pinyin": "mò mò",
+        "definition": "不说话，不出声",
+        "wrongOptions": ["mè mè", "mò mo", "mǒ mò"]
+      },
+      {
+        "word": "清晰",
+        "pinyin": "qīng xī",
+        "definition": "清楚",
+        "wrongOptions": ["qīng xí", "qīng xì", "qīng zhi"]
+      },
+      {
+        "word": "抱负",
+        "pinyin": "bào fù",
+        "definition": "远大的志向",
+        "wrongOptions": ["bào fū", "bào fú", "pào fù"]
+      },
+      {
+        "word": "胸怀",
+        "pinyin": "xiōng huái",
+        "definition": "胸襟",
+        "wrongOptions": ["xiōng huài", "xiōng huá", "xiong huái"]
+      },
+      {
+        "word": "赞叹",
+        "pinyin": "zàn tàn",
+        "definition": "称赞",
+        "wrongOptions": ["zhàn tàn", "zàn tān", "zàn tǎn"]
+      },
+      {
+        "word": "表情",
+        "pinyin": "biǎo qíng",
+        "definition": "表现在面部或姿态上的思想感情",
+        "wrongOptions": ["biǎo qing", "biǎo qín", "piao qíng"]
+      },
+      {
+        "word": "忘怀",
+        "pinyin": "wàng huái",
+        "definition": "忘记（多用于否定式）",
+        "wrongOptions": ["wàng huài", "wàng huá", "wàng hái"]
+      },
+      {
+        "word": "果真",
+        "pinyin": "guǒ zhēn",
+        "definition": "果然",
+        "wrongOptions": ["guǒ zhēng", "guǒ zhěn", "gǔ zhēn"]
+      },
+      {
+        "word": "非凡",
+        "pinyin": "fēi fán",
+        "definition": "超过一般；不寻常",
+        "wrongOptions": ["fēi fàn", "fēi fǎn", "fěi fán"]
+      },
+      {
+        "word": "左顾右盼",
+        "pinyin": "zuǒ gù yòu pàn",
+        "definition": "向左右两边看",
+        "wrongOptions": ["zuǒ gù yòu pān", "zuǒ gù yòu bàn", "zuǒ gū yòu pàn"]
+      },
+      {
+        "word": "指望",
+        "pinyin": "zhǐ wàng",
+        "definition": "一心期待；盼望",
+        "wrongOptions": ["zhǐ wang", "zhǐ wāng", "zhǐ wáng"]
+      },
+      {
+        "word": "训斥",
+        "pinyin": "xùn chì",
+        "definition": "训诫和斥责",
+        "wrongOptions": ["xùn cì", "xùn chī", "xùn chǐ"]
+      },
+      {
+        "word": "体会",
+        "pinyin": "tǐ huì",
+        "definition": "体验领会",
+        "wrongOptions": ["tǐ huì", "tī huì", "tǐ kuài"]
+      },
+      {
+        "word": "分量",
+        "pinyin": "fèn liàng",
+        "definition": "比喻轻重",
+        "wrongOptions": ["fēn liàng", "fèn liáng", "fèn niàng"]
+      },
+      {
+        "word": "响亮",
+        "pinyin": "xiǎng liàng",
+        "definition": "（声音）宏大",
+        "wrongOptions": ["xiǎng liang", "xiǎng làng", "xiǎng niàng"]
+      }
+    ]
+  },
+  {
+    "lessonId": 23,
+    "lessonName": "梅兰芳蓄须",
+    "isOptional": true,
+    "recognitionChars": [
+      {
+        "char": "蓄",
+        "pinyin": "xù",
+        "word": "蓄须",
+        "definition": "积储，留",
+        "wrongOptions": ["chù", "xū", "xù"]
+      },
+      {
+        "char": "迫",
+        "pinyin": "pò",
+        "word": "被迫",
+        "definition": "逼，急",
+        "wrongOptions": ["bò", "pǎi", "pè"]
+      },
+      {
+        "char": "租",
+        "pinyin": "zū",
+        "word": "出租",
+        "definition": "出代价借用",
+        "wrongOptions": ["zhū", "zǔ", "cū"]
+      },
+      {
+        "char": "纠",
+        "pinyin": "jiū",
+        "word": "纠缠",
+        "definition": "缠绕",
+        "wrongOptions": ["jiào", "qiū", "shōu"]
+      },
+      {
+        "char": "缠",
+        "pinyin": "chán",
+        "word": "缠绕",
+        "definition": "绕，裹",
+        "wrongOptions": ["cán", "zhàn", "chān"]
+      },
+      {
+        "char": "邀",
+        "pinyin": "yāo",
+        "word": "邀请",
+        "definition": "请",
+        "wrongOptions": ["jī", "yáo", "jiào"]
+      },
+      {
+        "char": "扰",
+        "pinyin": "rǎo",
+        "word": "打扰",
+        "definition": "搅乱",
+        "wrongOptions": ["yǎo", "lǎo", "ráo"]
+      },
+      {
+        "char": "拒",
+        "pinyin": "jù",
+        "word": "拒绝",
+        "definition": "抵挡，不接受",
+        "wrongOptions": ["jü", "qū", "jǜ"]
+      },
+      {
+        "char": "签",
+        "pinyin": "qiān",
+        "word": "签字",
+        "definition": "写上名字",
+        "wrongOptions": ["jiān", "qián", "liǎn"]
+      },
+      {
+        "char": "订",
+        "pinyin": "dìng",
+        "word": "订购",
+        "definition": "约定",
+        "wrongOptions": ["dīng", "tīng", "tíng"]
+      },
+      {
+        "char": "宁",
+        "pinyin": "nìng",
+        "word": "宁可",
+        "definition": "情愿",
+        "wrongOptions": ["níng", "nǐng", "yìng"]
+      },
+      {
+        "char": "要",
+        "pinyin": "yāo",
+        "word": "要求",
+        "definition": "求",
+        "wrongOptions": ["yào", "yáo", "niào"]
+      },
+      {
+        "char": "妄",
+        "pinyin": "wàng",
+        "word": "妄想",
+        "definition": "胡乱，荒谬",
+        "wrongOptions": ["wāng", "màng", "wǎng"]
+      }
+    ],
+    "writingChars": [],
+    "words": []
+  },
+  {
+    "lessonId": 24,
+    "lessonName": "延安，我把你追寻",
+    "isOptional": true,
+    "recognitionChars": [
+      {
+        "char": "延",
+        "pinyin": "yán",
+        "word": "延安",
+        "definition": "伸展，连续",
+        "wrongOptions": ["yàn", "yǎn", "tíng"]
+      },
+      {
+        "char": "昔",
+        "pinyin": "xī",
+        "word": "昔日",
+        "definition": "以前，从前",
+        "wrongOptions": ["xí", "cuò", "jiè"]
+      },
+      {
+        "char": "茅",
+        "pinyin": "máo",
+        "word": "茅屋",
+        "definition": "茅草",
+        "wrongOptions": ["mǎo", "māo", "yú"]
+      },
+      {
+        "char": "炕",
+        "pinyin": "kàng",
+        "word": "土炕",
+        "definition": "北方用土坯或砖砌成的睡觉用的长台",
+        "wrongOptions": ["kāng", "háng", "kǎng"]
+      },
+      {
+        "char": "旦",
+        "pinyin": "dàn",
+        "word": "一旦",
+        "definition": "早晨，天亮",
+        "wrongOptions": ["dān", "tǎn", "dǎn"]
+      },
+      {
+        "char": "媚",
+        "pinyin": "mèi",
+        "word": "明媚",
+        "definition": "美好，可爱",
+        "wrongOptions": ["méi", "mì", "wèi"]
+      }
+    ],
+    "writingChars": [],
+    "words": []
+  },
+  {
+    "lessonId": 25,
+    "lessonName": "王戎不取道旁李",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "戎",
+        "pinyin": "róng",
+        "word": "戎装",
+        "definition": "古代兵器的总称，也指军队",
+        "wrongOptions": ["lóng", "rǒng", "yóng"]
+      },
+      {
+        "char": "诸",
+        "pinyin": "zhū",
+        "word": "诸位",
+        "definition": "众，许多",
+        "wrongOptions": ["zū", "zhǔ", "chǔ"]
+      },
+      {
+        "char": "竞",
+        "pinyin": "jìng",
+        "word": "竞争",
+        "definition": "比赛",
+        "wrongOptions": ["jìn", "jīng", "qìng"]
+      },
+      {
+        "char": "唯",
+        "pinyin": "wéi",
+        "word": "唯独",
+        "definition": "单单，只",
+        "wrongOptions": ["wěi", "weì", "wēi"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "戎",
+        "pinyin": "róng",
+        "word": "王戎",
+        "definition": "姓，兵器",
+        "wrongOptions": ["lóng", "rǒng", "yóng"]
+      },
+      {
+        "char": "尝",
+        "pinyin": "cháng",
+        "word": "品尝",
+        "definition": "辨别滋味，曾经",
+        "wrongOptions": ["cáng", "chǎng", "zāng"]
+      },
+      {
+        "char": "诸",
+        "pinyin": "zhū",
+        "word": "诸葛",
+        "definition": "众，许多",
+        "wrongOptions": ["zū", "zhǔ", "chǔ"]
+      },
+      {
+        "char": "竞",
+        "pinyin": "jìng",
+        "word": "竞赛",
+        "definition": "争逐，比赛",
+        "wrongOptions": ["jìn", "jīng", "qìng"]
+      },
+      {
+        "char": "唯",
+        "pinyin": "wéi",
+        "word": "唯一",
+        "definition": "只有",
+        "wrongOptions": ["wěi", "weì", "wēi"]
+      }
+    ],
+    "words": []
+  },
+  {
+    "lessonId": 26,
+    "lessonName": "西门豹治邺",
+    "isOptional": false,
+    "recognitionChars": [
+      {
+        "char": "豹",
+        "pinyin": "bào",
+        "word": "猎豹",
+        "definition": "一种野兽，似虎而小",
+        "wrongOptions": ["pào", "biào", "bāo"]
+      },
+      {
+        "char": "娶",
+        "pinyin": "qǔ",
+        "word": "娶亲",
+        "definition": "把女子接过来成亲",
+        "wrongOptions": ["qù", "jù", "qǚ"]
+      },
+      {
+        "char": "媳",
+        "pinyin": "xí",
+        "word": "儿媳",
+        "definition": "儿子的妻子",
+        "wrongOptions": ["xī", "xì", "xǐ"]
+      },
+      {
+        "char": "巫",
+        "pinyin": "wū",
+        "word": "巫婆",
+        "definition": "古代称能以舞降神的人",
+        "wrongOptions": ["wú", "yà", "wǔ"]
+      },
+      {
+        "char": "绅",
+        "pinyin": "shēn",
+        "word": "官绅",
+        "definition": "旧时指有势力、有功名的人",
+        "wrongOptions": ["shēng", "shěn", "sēn"]
+      },
+      {
+        "char": "旱",
+        "pinyin": "hàn",
+        "word": "干旱",
+        "definition": "长时间不下雨，缺雨",
+        "wrongOptions": ["gān", "hǎn", "kàn"]
+      },
+      {
+        "char": "徒",
+        "pinyin": "tú",
+        "word": "徒弟",
+        "definition": "步行，学生",
+        "wrongOptions": ["dú", "tǔ", "zhì"]
+      },
+      {
+        "char": "吊",
+        "pinyin": "diào",
+        "word": "吊胆",
+        "definition": "悬挂",
+        "wrongOptions": ["diāo", "tiào", "dào"]
+      },
+      {
+        "char": "磕",
+        "pinyin": "kē",
+        "word": "磕头",
+        "definition": "碰",
+        "wrongOptions": ["hé", "ké", "kè"]
+      },
+      {
+        "char": "凿",
+        "pinyin": "záo",
+        "word": "开凿",
+        "definition": "挖掘，打孔",
+        "wrongOptions": ["zuò", "zháo", "zāo"]
+      },
+      {
+        "char": "溉",
+        "pinyin": "gài",
+        "word": "灌溉",
+        "definition": "浇灌",
+        "wrongOptions": ["kài", "gǎi", "gāi"]
+      }
+    ],
+    "writingChars": [
+      {
+        "char": "豹",
+        "pinyin": "bào",
+        "word": "豹子",
+        "definition": "兽名",
+        "wrongOptions": ["pào", "biào", "bāo"]
+      },
+      {
+        "char": "派",
+        "pinyin": "pài",
+        "word": "派别",
+        "definition": "分支，分配",
+        "wrongOptions": ["bài", "pāi", "pǎi"]
+      },
+      {
+        "char": "娶",
+        "pinyin": "qǔ",
+        "word": "娶妻",
+        "definition": "男方把女方接到家里成亲",
+        "wrongOptions": ["qù", "jù", "qǚ"]
+      },
+      {
+        "char": "媳",
+        "pinyin": "xí",
+        "word": "媳妇",
+        "definition": "儿子的配偶",
+        "wrongOptions": ["xī", "xì", "xǐ"]
+      },
+      {
+        "char": "妇",
+        "pinyin": "fù",
+        "word": "妇女",
+        "definition": "成年女子",
+        "wrongOptions": ["fú", "hù", "fū"]
+      },
+      {
+        "char": "淹",
+        "pinyin": "yān",
+        "word": "淹没",
+        "definition": "水漫过",
+        "wrongOptions": ["yǎn", "ān", "yàn"]
+      },
+      {
+        "char": "逼",
+        "pinyin": "bī",
+        "word": "逼迫",
+        "definition": "强迫，威胁",
+        "wrongOptions": ["bí", "bǐ", "pī"]
+      },
+      {
+        "char": "浮",
+        "pinyin": "fú",
+        "word": "漂浮",
+        "definition": "漂在水面上",
+        "wrongOptions": ["fū", "fǔ", "pú"]
+      },
+      {
+        "char": "旱",
+        "pinyin": "hàn",
+        "word": "旱灾",
+        "definition": "缺雨水",
+        "wrongOptions": ["gān", "hǎn", "kàn"]
+      },
+      {
+        "char": "徒",
+        "pinyin": "tú",
+        "word": "徒步",
+        "definition": "步行，人",
+        "wrongOptions": ["dú", "tǔ", "zhì"]
+      },
+      {
+        "char": "扔",
+        "pinyin": "rēng",
+        "word": "扔掉",
+        "definition": "投，掷",
+        "wrongOptions": ["rēng", "rěng", "lēng"]
+      },
+      {
+        "char": "饶",
+        "pinyin": "ráo",
+        "word": "求饶",
+        "definition": "宽恕",
+        "wrongOptions": ["yáo", "rǎo", "jiāo"]
+      },
+      {
+        "char": "骗",
+        "pinyin": "piàn",
+        "word": "欺骗",
+        "definition": "欺蒙",
+        "wrongOptions": ["biàn", "piān", "piǎn"]
+      },
+      {
+        "char": "灌",
+        "pinyin": "guàn",
+        "word": "灌水",
+        "definition": "浇，注入",
+        "wrongOptions": ["guān", "kuàn", "gùn"]
+      },
+      {
+        "char": "溉",
+        "pinyin": "gài",
+        "word": "灌溉",
+        "definition": "浇灌",
+        "wrongOptions": ["kài", "gǎi", "gāi"]
+      }
+    ],
+    "words": [
+      {
+        "word": "管理",
+        "pinyin": "guǎn lǐ",
+        "definition": "负责某项工作使顺利进行",
+        "wrongOptions": ["guǎn lǐ", "guǎn nǐ", "guān lǐ"]
+      },
+      {
+        "word": "人烟",
+        "pinyin": "rén yān",
+        "definition": "指住户、人家",
+        "wrongOptions": ["rén yān", "rén yīn", "yén yān"]
+      },
+      {
+        "word": "媳妇",
+        "pinyin": "xí fù",
+        "definition": "儿子的妻子；妻子",
+        "wrongOptions": ["xí fu", "xí fū", "xǐ fù"]
+      },
+      {
+        "word": "新娘",
+        "pinyin": "xīn niáng",
+        "definition": "刚结婚的女子",
+        "wrongOptions": ["xīng niáng", "xīn liáng", "xīn niàng"]
+      },
+      {
+        "word": "眼睁睁",
+        "pinyin": "yǎn zhēng zhēng",
+        "definition": "形容发愣或没有办法，看着不如意的事发生",
+        "wrongOptions": ["yǎn zhēng zhēng", "yǎn zhèng zhèng", "yǎn zēng zēng"]
+      },
+      {
+        "word": "干旱",
+        "pinyin": "gān hàn",
+        "definition": "因降水不足而土壤、气候干燥",
+        "wrongOptions": ["gàn hàn", "gān hǎn", "gān gàn"]
+      },
+      {
+        "word": "迎接",
+        "pinyin": "yíng jiē",
+        "definition": "到某个地方去接待客人",
+        "wrongOptions": ["yíng jiē", "yíng jié", "yíng qiē"]
+      },
+      {
+        "word": "徒弟",
+        "pinyin": "tú dì",
+        "definition": "跟从师傅学习的人",
+        "wrongOptions": ["tú di", "dú dì", "tú tí"]
+      },
+      {
+        "word": "面如土色",
+        "pinyin": "miàn rú tǔ sè",
+        "definition": "脸色跟土一样，形容极端惊恐",
+        "wrongOptions": ["miàn rú tǔ sè", "miàn yú tǔ sè", "miàn rú tǔ shè"]
+      },
+      {
+        "word": "求饶",
+        "pinyin": "qiú ráo",
+        "definition": "请求宽恕",
+        "wrongOptions": ["qiú ráo", "qiú yáo", "qiú rǎo"]
+      },
+      {
+        "word": "灌溉",
+        "pinyin": "guàn gài",
+        "definition": "把水输送到田地里",
+        "wrongOptions": ["guàn kài", "guàn gǎi", "guàn gāi"]
+      },
+      {
+        "word": "收成",
+        "pinyin": "shōu cheng",
+        "definition": "庄稼、蔬菜、果品等收获的成绩",
+        "wrongOptions": ["shōu chéng", "sōu cheng", "shōu chen"]
+      }
+    ]
+  },
+  {
+    "lessonId": 27,
+    "lessonName": "故事二则",
+    "isOptional": true,
+    "recognitionChars": [
+      {
+        "char": "拜",
+        "pinyin": "bài",
+        "word": "拜见",
+        "definition": "行礼祝贺，探望",
+        "wrongOptions": ["pài", "bái", "bǎi"]
+      },
+      {
+        "char": "侯",
+        "pinyin": "hóu",
+        "word": "王侯",
+        "definition": "封建爵位",
+        "wrongOptions": ["hòu", "hǒu", "huó"]
+      },
+      {
+        "char": "肤",
+        "pinyin": "fū",
+        "word": "皮肤",
+        "definition": "身体表面的组织",
+        "wrongOptions": ["fú", "hū", "fǔ"]
+      },
+      {
+        "char": "扎",
+        "pinyin": "zhā",
+        "word": "扎针",
+        "definition": "刺",
+        "wrongOptions": ["zā", "zhá", "cā"]
+      },
+      {
+        "char": "剂",
+        "pinyin": "jì",
+        "word": "药剂",
+        "definition": "量词，配制好的药",
+        "wrongOptions": ["jí", "qí", "jī"]
+      },
+      {
+        "char": "髓",
+        "pinyin": "suǐ",
+        "word": "骨髓",
+        "definition": "骨头里的像油质的物质",
+        "wrongOptions": ["suí", "suì", "shuǐ"]
+      },
+      {
+        "char": "纪",
+        "pinyin": "jǐ",
+        "word": "姓纪",
+        "definition": "姓",
+        "wrongOptions": ["jì", "yǐ", "qǐ"]
+      },
+      {
+        "char": "标",
+        "pinyin": "biāo",
+        "word": "目标",
+        "definition": "记号，准则",
+        "wrongOptions": ["piāo", "biǎo", "bāo"]
+      }
+    ],
+    "writingChars": [],
+    "words": []
+  },
+  {
+    "lessonId": 998,
+    "lessonName": "语文园地 (第八单元)",
+    "isOptional": true,
+    "recognitionChars": [
+      {
+        "char": "纲",
+        "pinyin": "gāng",
+        "word": "提纲",
+        "definition": "网的总绳，事物的大概",
+        "wrongOptions": ["gǎng", "kāng", "gàng"]
+      },
+      {
+        "char": "授",
+        "pinyin": "shòu",
+        "word": "传授",
+        "definition": "给，教",
+        "wrongOptions": ["shǒu", "sòu", "shōu"]
+      },
+      {
+        "char": "揍",
+        "pinyin": "zòu",
+        "word": "挨揍",
+        "definition": "打",
+        "wrongOptions": ["còu", "zòu", "zǒu"]
+      },
+      {
+        "char": "键",
+        "pinyin": "jiàn",
+        "word": "键盘",
+        "definition": "机器上活动的机件",
+        "wrongOptions": ["jiān", "jiǎn", "jián"]
+      },
+      {
+        "char": "谱",
+        "pinyin": "pǔ",
+        "word": "乐谱",
+        "definition": "记载音乐的符号",
+        "wrongOptions": ["pū", "pú", "bǔ"]
+      },
+      {
+        "char": "锈",
+        "pinyin": "xiù",
+        "word": "生锈",
+        "definition": "金属表面生成的氧化物",
+        "wrongOptions": ["xiū", "xiǔ", "yòu"]
+      },
+      {
+        "char": "沫",
+        "pinyin": "mò",
+        "word": "泡沫",
+        "definition": "液体形成的泡",
+        "wrongOptions": ["mè", "mǒ", "mó"]
+      },
+      {
+        "char": "砖",
+        "pinyin": "zhuān",
+        "word": "砖头",
+        "definition": "建筑材料",
+        "wrongOptions": ["zuān", "zhuǎn", "zhuàn"]
+      },
+      {
+        "char": "矿",
+        "pinyin": "kuàng",
+        "word": "矿物",
+        "definition": "矿产",
+        "wrongOptions": ["guǎng", "kuáng", "huàng"]
+      },
+      {
+        "char": "综",
+        "pinyin": "zōng",
+        "word": "综合",
+        "definition": "总合",
+        "wrongOptions": ["zòng", "cōng", "zǒng"]
+      },
+      {
+        "char": "氧",
+        "pinyin": "yǎng",
+        "word": "氧气",
+        "definition": "一种气体元素",
+        "wrongOptions": ["yáng", "yāng", "yàng"]
+      },
+      {
+        "char": "俱",
+        "pinyin": "jù",
+        "word": "俱乐部",
+        "definition": "全，都",
+        "wrongOptions": ["jü", "jǜ", "jū"]
+      }
+    ],
+    "writingChars": [],
+    "words": []
+  }
+]
+}
