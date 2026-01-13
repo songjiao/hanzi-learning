@@ -24,7 +24,7 @@
     },
     {
       "gradeId": "grade3",
-      "gradeName": "四年级",
+      "gradeName": "三年级",
       "semesters": [
         {
           "semesterId": "semester1",
@@ -33,6 +33,18 @@
         }
       ]
     },
+     {
+      "gradeId": "grade4",
+      "gradeName": "四年级",
+      "semesters": [
+        {
+          "semesterId": "semester1",
+          "semesterName": "上册",
+          "dataFile": "grade4-semester1.json"
+        }
+      ]
+    },
+
     {
       "gradeId": "grade4",
       "gradeName": "四年级",
@@ -51,7 +63,7 @@
         {
           "semesterId": "semester1",
           "semesterName": "上册",
-          "dataFile": "grade4-semester1.json"
+          "dataFile": "grade5-semester1.json"
         }
       ]
     },
@@ -62,7 +74,7 @@
         {
           "semesterId": "semester2",
           "semesterName": "下册",
-          "dataFile": "grade4-semester2.json"
+          "dataFile": "grade5-semester2.json"
         }
       ]
     }

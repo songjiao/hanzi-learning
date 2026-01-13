@@ -2502,6 +2502,198 @@
           "wrongOptions": ["fá li", "fà lì", "fá lí"]
         }
       ]
+    },
+    {
+      "lessonId": 16,
+      "lessonName": "富饶的西沙群岛",
+      "isOptional": false,
+      "recognitionChars": [
+        { "char": "饶", "pinyin": "ráo", "word": "富饶", "definition": "丰富，充足。", "wrongOptions": ["rǎo", "yáo", "náo"] },
+        { "char": "优", "pinyin": "yōu", "word": "优美", "definition": "美好。", "wrongOptions": ["yǒu", "yòu", "yū"] },
+        { "char": "瑰", "pinyin": "guī", "word": "瑰丽", "definition": "异常美丽。", "wrongOptions": ["guǐ", "kuī", "huī"] },
+        { "char": "岩", "pinyin": "yán", "word": "岩石", "definition": "构成地壳的石头。", "wrongOptions": ["yàn", "yán", "yuán"] },
+        { "char": "虾", "pinyin": "xiā", "word": "大龙虾", "definition": "水里的一种节肢动物。", "wrongOptions": ["xiǎ", "huā", "qiā"] },
+        { "char": "武", "pinyin": "wǔ", "word": "威武", "definition": "力量强大，有气势。", "wrongOptions": ["wú", "wù", "fǔ"] }
+      ],
+      "writingChars": [
+        { "char": "景", "pinyin": "jǐng", "word": "风景", "definition": "看到的自然风光。", "wrongOptions": ["jǐn", "jīng", "qǐng"] },
+        { "char": "淡", "pinyin": "dàn", "word": "淡绿", "definition": "稀薄，不浓。", "wrongOptions": ["tán", "dān", "dàn"] },
+        { "char": "浅", "pinyin": "qiǎn", "word": "深浅", "definition": "从表面到底距离小。", "wrongOptions": ["qián", "xiàn", "jiǎn"] },
+        { "char": "错", "pinyin": "cuò", "word": "交错", "definition": "交叉，不一致。", "wrongOptions": ["cù", "zuò", "cuō"] },
+        { "char": "厚", "pinyin": "hòu", "word": "厚实", "definition": "扁平物体上下两面距离大。", "wrongOptions": ["hóu", "hǒu", "dòu"] }
+      ],
+      "words": [
+        { "word": "风景", "pinyin": "fēng jǐng", "definition": "一定地域内由山水、花草、建筑等组合而成的画面。", "wrongOptions": ["fēng jǐn", "fēn jǐng", "fèng jǐng"] },
+        { "word": "优美", "pinyin": "yōu měi", "definition": "美好；漂亮。", "wrongOptions": ["yǒu měi", "yōu méi", "yū měi"] },
+        { "word": "物产", "pinyin": "wù chǎn", "definition": "天然出产的和生产出来的物品。", "wrongOptions": ["wù chǎng", "wǔ chǎn", "mù chǎn"] },
+        { "word": "成群结队", "pinyin": "chéng qún jié duì", "definition": "许多人或动物聚集在一起。", "wrongOptions": ["chén qún jié duì", "chéng qún jié tuì", "céng qún jié duì"] }
+      ]
+    },
+    {
+      "lessonId": 17,
+      "lessonName": "海滨小城",
+      "isOptional": false,
+      "recognitionChars": [
+        { "char": "滨", "pinyin": "bīn", "word": "海滨", "definition": "靠近海边的地方。", "wrongOptions": ["pīn", "bǐn", "bīng"] },
+        { "char": "鸥", "pinyin": "ōu", "word": "海鸥", "definition": "一种常在海边飞行的鸟。", "wrongOptions": ["ǒu", "yū", "yōu"] },
+        { "char": "睬", "pinyin": "cǎi", "word": "理睬", "definition": "理会，答应。", "wrongOptions": ["cài", "chǎi", "tǎi"] }
+      ],
+      "writingChars": [
+        { "char": "滨", "pinyin": "bīn", "word": "湖滨", "definition": "水边。", "wrongOptions": ["pīn", "bǐn", "bīng"] },
+        { "char": "灰", "pinyin": "huī", "word": "灰色", "definition": "像石灰的颜色。", "wrongOptions": ["huí", "kuī", "fēi"] },
+        { "char": "渔", "pinyin": "yú", "word": "渔民", "definition": "捕鱼。", "wrongOptions": ["yǔ", "yù", "yí"] }
+      ],
+      "words": [
+        { "word": "海滨", "pinyin": "hǎi bīn", "definition": "海边。", "wrongOptions": ["hǎi pīn", "hǎi bǐn", "hǎi bīng"] },
+        { "word": "朝阳", "pinyin": "zhāo yáng", "definition": "早晨刚升起的太阳。", "wrongOptions": ["zhǎo yáng", "cháo yáng", "zhāo yāng"] },
+        { "word": "打扫", "pinyin": "dǎ sǎo", "definition": "扫除，清理。", "wrongOptions": ["dá sǎo", "dǎ shǎo", "tǎ sǎo"] }
+      ]
+    },
+    {
+      "lessonId": 18,
+      "lessonName": "美丽的小兴安岭",
+      "isOptional": false,
+      "recognitionChars": [
+        { "char": "融", "pinyin": "róng", "word": "融化", "definition": "冰、雪等受热变成水。", "wrongOptions": ["yóng", "rōng", "lóng"] },
+        { "char": "侧", "pinyin": "cè", "word": "侧着", "definition": "旁边；向旁边歪斜。", "wrongOptions": ["chè", "cè", "zé"] },
+        { "char": "梢", "pinyin": "shāo", "word": "树梢", "definition": "树枝的末端。", "wrongOptions": ["xiāo", "shǎo", "sāo"] }
+      ],
+      "writingChars": [
+        { "char": "抽", "pinyin": "chōu", "word": "抽出", "definition": "取出；植物长出。", "wrongOptions": ["yóu", "zhōu", "chóu"] },
+        { "char": "药", "pinyin": "yào", "word": "药材", "definition": "治病的东西。", "wrongOptions": ["yuè", "yāo", "yǎo"] },
+        { "char": "刮", "pinyin": "guā", "word": "刮风", "definition": "风吹；用刀去掉表层。", "wrongOptions": ["guǎ", "kuā", "huā"] }
+      ],
+      "words": [
+        { "word": "视线", "pinyin": "shì xiàn", "definition": "眼睛看东西时目光所接触的直线。", "wrongOptions": ["sì xiàn", "shì jiàn", "shì xiǎn"] },
+        { "word": "各种各样", "pinyin": "gè zhǒng gè yàng", "definition": "种类很多。", "wrongOptions": ["gè zhòng gè yàng", "kè zhǒng kè yàng", "gè zǒng gè yàng"] },
+        { "word": "宝库", "pinyin": "bǎo kù", "definition": "储藏珍贵物品的地方。", "wrongOptions": ["pǎo kù", "bǎo gù", "bǎo kǔ"] }
+      ]
+    },
+    {
+      "lessonId": 19,
+      "lessonName": "香港，璀璨的明珠*",
+      "isOptional": true,
+      "recognitionChars": [
+        { "char": "贸", "pinyin": "mào", "word": "贸易", "definition": "做生意，买卖。", "wrongOptions": ["máo", "mào", "mò"] },
+        { "char": "府", "pinyin": "fǔ", "word": "政府", "definition": "国家行政机关。", "wrongOptions": ["fú", "hǔ", "fǔ"] },
+        { "char": "扮", "pinyin": "bàn", "word": "扮演", "definition": "化装成某种人物。", "wrongOptions": ["pàn", "fàn", "bǎn"] }
+      ],
+      "writingChars": [],
+      "words": []
+    },
+    {
+      "lessonId": 20,
+      "lessonName": "古诗三首",
+      "isOptional": false,
+      "recognitionChars": [
+        { "char": "返", "pinyin": "fǎn", "word": "返景", "definition": "回来；返回。", "wrongOptions": ["fàn", "fán", "pǎn"] },
+        { "char": "宜", "pinyin": "yí", "word": "相宜", "definition": "合适，应当。", "wrongOptions": ["yǐ", "yì", "ní"] }
+      ],
+      "writingChars": [
+        { "char": "断", "pinyin": "duàn", "word": "中断", "definition": "分成几段；停止。", "wrongOptions": ["tuàn", "dàn", "duān"] },
+        { "char": "孤", "pinyin": "gū", "word": "孤帆", "definition": "单独；只有一个。", "wrongOptions": ["hū", "gǔ", "kū"] }
+      ],
+      "words": []
+    },
+    {
+      "lessonId": 21,
+      "lessonName": "大自然的声音",
+      "isOptional": false,
+      "recognitionChars": [
+        { "char": "妙", "pinyin": "miào", "word": "美妙", "definition": "美好，奇妙。", "wrongOptions": ["miǎo", "niào", "miāo"] },
+        { "char": "奏", "pinyin": "zòu", "word": "演奏", "definition": "用乐器表演。", "wrongOptions": ["zhòu", "zǒu", "sòu"] },
+        { "char": "器", "pinyin": "qì", "word": "乐器", "definition": "工具；器具。", "wrongOptions": ["qí", "jì", "xì"] }
+      ],
+      "writingChars": [
+        { "char": "妙", "pinyin": "miào", "word": "奇妙", "definition": "神奇。", "wrongOptions": ["miǎo", "niào", "miāo"] },
+        { "char": "奏", "pinyin": "zòu", "word": "伴奏", "definition": "演奏。", "wrongOptions": ["zhòu", "zǒu", "sòu"] },
+        { "char": "琴", "pinyin": "qín", "word": "钢琴", "definition": "一种乐器。", "wrongOptions": ["qíng", "jín", "lín"] }
+      ],
+      "words": [
+        { "word": "音乐家", "pinyin": "yīn yuè jiā", "definition": "专门从事音乐工作的人。", "wrongOptions": ["yīn lè jiā", "yīng yuè jiā", "yīn lüè jiā"] },
+        { "word": "温柔", "pinyin": "wēn róu", "definition": "温和柔顺。", "wrongOptions": ["wēng róu", "wēn yóu", "wēn lóng"] },
+        { "word": "河流", "pinyin": "hé liú", "definition": "自然形成的水道。", "wrongOptions": ["hè liú", "hé niú", "huó liú"] }
+      ]
+    },
+    {
+      "lessonId": 22,
+      "lessonName": "读不完的大书",
+      "isOptional": false,
+      "recognitionChars": [
+        { "char": "序", "pinyin": "xù", "word": "秩序", "definition": "次序。", "wrongOptions": ["xǘ", "xù", "shù"] },
+        { "char": "姿", "pinyin": "zī", "word": "姿态", "definition": "样子；态度。", "wrongOptions": ["zhī", "zǐ", "zī"] },
+        { "char": "秘", "pinyin": "mì", "word": "奥秘", "definition": "秘密。", "wrongOptions": ["bì", "mí", "mì"] }
+      ],
+      "writingChars": [
+        { "char": "昆", "pinyin": "kūn", "word": "昆虫", "definition": "节肢动物的一类，如蝴蝶。", "wrongOptions": ["hūn", "kǔn", "gūn"] },
+        { "char": "态", "pinyin": "tài", "word": "姿态", "definition": "形状，样子。", "wrongOptions": ["tái", "dài", "tài"] }
+      ],
+      "words": [
+        { "word": "井然有序", "pinyin": "jǐng rán yǒu xù", "definition": "整齐、有次序。", "wrongOptions": ["jǐn rán yǒu xù", "jǐng rán yǒu xü", "jǐng lán yǒu xù"] },
+        { "word": "千姿百态", "pinyin": "qiān zī bǎi tài", "definition": "姿态非常多。", "wrongOptions": ["qiān zhī bǎi tài", "jiān zī bǎi tài", "qiān zī bǎi tǎi"] }
+      ]
+    },
+    {
+      "lessonId": 23,
+      "lessonName": "司马光",
+      "isOptional": false,
+      "recognitionChars": [
+        { "char": "司", "pinyin": "sī", "word": "公司", "definition": "主管；官名。", "wrongOptions": ["shī", "sǐ", "zī"] },
+        { "char": "弃", "pinyin": "qì", "word": "放弃", "definition": "扔掉；不要。", "wrongOptions": ["qí", "qì", "jì"] }
+      ],
+      "writingChars": [
+        { "char": "司", "pinyin": "sī", "word": "司机", "definition": "管理。", "wrongOptions": ["shī", "sǐ", "zī"] },
+        { "char": "击", "pinyin": "jī", "word": "击打", "definition": "打。", "wrongOptions": ["jǐ", "jì", "qī"] }
+      ],
+      "words": []
+    },
+    {
+      "lessonId": 24,
+      "lessonName": "一定要争气",
+      "isOptional": false,
+      "recognitionChars": [
+        { "char": "均", "pinyin": "jūn", "word": "平均", "definition": "平，等。", "wrongOptions": ["jǔn", "yūn", "jūn"] },
+        { "char": "耐", "pinyin": "nài", "word": "耐心", "definition": "受得住；禁得起。", "wrongOptions": ["nái", "lài", "nài"] }
+      ],
+      "writingChars": [
+        { "char": "努", "pinyin": "nǔ", "word": "努力", "definition": "用力，使劲。", "wrongOptions": ["lǔ", "nù", "nú"] },
+        { "char": "奋", "pinyin": "fèn", "word": "奋斗", "definition": "鼓起劲来。", "wrongOptions": ["fèng", "fèn", "pèn"] }
+      ],
+      "words": [
+        { "word": "成就", "pinyin": "chéng jiù", "definition": "事业上的成绩。", "wrongOptions": ["chén jiù", "chéng jiū", "céng jiù"] },
+        { "word": "努力", "pinyin": "nǔ lì", "definition": "把力量都使出来。", "wrongOptions": ["lǔ lì", "nú lì", "nǔ nì"] }
+      ]
+    },
+    {
+      "lessonId": 25,
+      "lessonName": "手术台就是阵地",
+      "isOptional": false,
+      "recognitionChars": [
+        { "char": "棒", "pinyin": "bàng", "word": "木棒", "definition": "棍子；水平高。", "wrongOptions": ["pàng", "báng", "bàng"] },
+        { "char": "险", "pinyin": "xiǎn", "word": "危险", "definition": "不安全。", "wrongOptions": ["xiàn", "liǎn", "qiǎn"] },
+        { "char": "迅", "pinyin": "xùn", "word": "迅速", "definition": "快。", "wrongOptions": ["xǘn", "shùn", "xùn"] }
+      ],
+      "writingChars": [
+        { "char": "棒", "pinyin": "bàng", "word": "好棒", "definition": "棍子。", "wrongOptions": ["pàng", "báng", "bàng"] },
+        { "char": "伤", "pinyin": "shāng", "word": "受伤", "definition": "身体受损。", "wrongOptions": ["sāng", "shàng", "shāng"] }
+      ],
+      "words": [
+        { "word": "陆续", "pinyin": "lù xù", "definition": "表示前后相继，间断地出现。", "wrongOptions": ["lù xü", "nù xù", "lǜ xù"] },
+        { "word": "连续", "pinyin": "lián xù", "definition": "一个接一个。", "wrongOptions": ["nián xù", "lián xü", "liàn xù"] },
+        { "word": "争分夺秒", "pinyin": "zhēng fēn duó miǎo", "definition": "一分一秒也不放过，形容抓紧时间。", "wrongOptions": ["zhēng fēn duó niǎo", "zhēng fēn tuó miǎo", "zēng fēn duó miǎo"] }
+      ]
+    },
+    {
+      "lessonId": 26,
+      "lessonName": "一个粗瓷大碗*",
+      "isOptional": true,
+      "recognitionChars": [
+        { "char": "瓷", "pinyin": "cí", "word": "陶瓷", "definition": "用黏土烧制成的材料。", "wrongOptions": ["chí", "cǐ", "sī"] },
+        { "char": "缸", "pinyin": "gāng", "word": "缸子", "definition": "圆筒形的容器。", "wrongOptions": ["gāng", "kāng", "huāng"] },
+        { "char": "锅", "pinyin": "guō", "word": "铁锅", "definition": "烹饪用的金属器皿。", "wrongOptions": ["guò", "kuō", "huō"] }
+      ],
+      "writingChars": [],
+      "words": []
     }
   ]
 }
