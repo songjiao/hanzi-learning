@@ -2,3 +2,6 @@ node_modules/
 dist/
 .DS_Store
 *.local
+
+# 汉字数据文件（通过 npm run sync-hanzi 自动生成）
+public/hanzi-data/

@@ -34,14 +34,25 @@ export function useHanziWriter() {
       showHintAfterMisses: 3,
       highlightOnComplete: true,
       charDataLoader: (char, onComplete, onError) => {
-        // 从 CDN 加载字符数据
-        fetch(`https://cdn.jsdelivr.net/npm/hanzi-writer-data@2.0/${char}.json`)
+        // 优先尝试加载本地资源
+        fetch(`/hanzi-data/${char}.json`)
+          .then(res => {
+            if (!res.ok) {
+              // 本地加载失败，回退到 CDN
+              console.warn(`本地加载 ${char} 失败，尝试使用 CDN`)
+              return fetch(`https://cdn.jsdelivr.net/npm/hanzi-writer-data@2.0/${char}.json`)
+            }
+            return res
+          })
           .then(res => {
             if (!res.ok) throw new Error('Character not found')
             return res.json()
           })
           .then(onComplete)
-          .catch(onError)
+          .catch(err => {
+            console.error(`加载汉字 ${char} 失败:`, err)
+            onError(err)
+          })
       }
     }
 

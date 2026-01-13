@@ -4,19 +4,22 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "sync-hanzi": "node scripts/copy-hanzi-data.js",
     "sync-lessons": "cp -r lessons/* public/lessons/",
-    "dev": "npm run sync-lessons && vite",
-    "build": "npm run sync-lessons && vite build",
-    "preview": "vite preview"
+    "dev": "npm run sync-lessons && npm run sync-hanzi && vite",
+    "build": "npm run sync-lessons && npm run sync-hanzi && vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && rsync -avz --delete dist/ songjiao@192.168.1.82:/www-data/hanzi-learning/"
   },
   "dependencies": {
-    "vue": "^3.4.0",
-    "vue-router": "^4.2.0",
+    "hanzi-writer": "^3.5.0",
     "pinia": "^2.1.0",
-    "hanzi-writer": "^3.5.0"
+    "vue": "^3.4.0",
+    "vue-router": "^4.2.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.0",
+    "hanzi-writer-data": "^2.0.1",
     "vite": "^5.0.0"
   }
 }
